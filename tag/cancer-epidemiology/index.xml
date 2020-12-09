@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer Epidemiology | Haoyu Zhang</title>
+    <link>https://andrewhaoyu.github.io/tag/cancer-epidemiology/</link>
+      <atom:link href="https://andrewhaoyu.github.io/tag/cancer-epidemiology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancer Epidemiology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cancer Epidemiology</title>
+      <link>https://andrewhaoyu.github.io/tag/cancer-epidemiology/</link>
+    </image>
+    
+    <item>
+      <title>The role of gallstones in gallbladder cancer in India: a Mendelian randomization study</title>
+      <link>https://andrewhaoyu.github.io/publication/gallstone/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/gallstone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
+      <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses</title>
+      <link>https://andrewhaoyu.github.io/publication/breast_cancer/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/breast_cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
+      <link>https://andrewhaoyu.github.io/publication/mtop/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/mtop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diesel exhaust and bladder cancer risk by pathologic stage and grade subtypes</title>
+      <link>https://andrewhaoyu.github.io/publication/diesel_bladder/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/diesel_bladder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common genetic variation and risk of gallbladder cancer in India: a case-control genome-wide association study</title>
+      <link>https://andrewhaoyu.github.io/publication/gallbladder_gwas/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/gallbladder_gwas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

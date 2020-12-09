@@ -1,16 +1,160 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Academic</title>
+    <title>Recent &amp; Upcoming Talks | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/talk/</link>
       <atom:link href="https://andrewhaoyu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Mon, 21 Sep 2020 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andrewhaoyu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://andrewhaoyu.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Methods for developing ancestry specific polygenic risk scores</title>
+      <link>https://andrewhaoyu.github.io/talk/bcac_2020/</link>
+      <pubDate>Mon, 21 Sep 2020 08:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/bcac_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Mendelian randomization analysis with weak instruments</title>
+      <link>https://andrewhaoyu.github.io/talk/jsm_2020/</link>
+      <pubDate>Sun, 02 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/jsm_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
+      <link>https://andrewhaoyu.github.io/talk/chengdu_2020/</link>
+      <pubDate>Wed, 15 Jan 2020 15:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/chengdu_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
+      <link>https://andrewhaoyu.github.io/talk/shanghai_2020/</link>
+      <pubDate>Fri, 27 Dec 2019 15:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/shanghai_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
+      <link>https://andrewhaoyu.github.io/talk/jsm_2019/</link>
+      <pubDate>Fri, 02 Aug 2019 14:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/jsm_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subtypes specific GWAS and risk prediction modeling on breast cancer subtypes</title>
+      <link>https://andrewhaoyu.github.io/talk/bcac_2019/</link>
+      <pubDate>Tue, 16 Apr 2019 15:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/bcac_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
+      <link>https://andrewhaoyu.github.io/talk/ashg_2018/</link>
+      <pubDate>Fri, 19 Oct 2018 14:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/ashg_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing polygenic risk prediction models for cancer subtypes incorporating multivariate disease characteristics</title>
+      <link>https://andrewhaoyu.github.io/talk/jsm_2018/</link>
+      <pubDate>Sun, 29 Jul 2018 15:16:45 -0500</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/jsm_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standard approach and methods accounting for subtype heterogeneity identified 33 novel breast cancer loci</title>
+      <link>https://andrewhaoyu.github.io/talk/bcac_2018/</link>
+      <pubDate>Tue, 12 Jun 2018 15:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/bcac_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for analyzing genome-wide association studies</title>
+      <link>https://andrewhaoyu.github.io/talk/jhu_biostat_100years/</link>
+      <pubDate>Fri, 13 Apr 2018 16:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/jhu_biostat_100years/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mixture approach to estimating a weighted population-averaged value</title>
+      <link>https://andrewhaoyu.github.io/talk/enar_2018/</link>
+      <pubDate>Tue, 20 Mar 2018 14:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/enar_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
+      <link>https://andrewhaoyu.github.io/talk/delta_omega_2018/</link>
+      <pubDate>Wed, 28 Feb 2018 14:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/delta_omega_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
+      <link>https://andrewhaoyu.github.io/talk/nih_student_2018/</link>
+      <pubDate>Thu, 22 Feb 2018 14:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/nih_student_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
+      <link>https://andrewhaoyu.github.io/talk/md_gem_2018/</link>
+      <pubDate>Fri, 09 Feb 2018 13:30:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/md_gem_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
+      <link>https://andrewhaoyu.github.io/talk/ashg_2017/</link>
+      <pubDate>Mon, 02 Oct 2017 10:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/ashg_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing for genetic associations in case-control studies incorporating multivariate disease characteristics</title>
+      <link>https://andrewhaoyu.github.io/talk/nci_2017/</link>
+      <pubDate>Sat, 09 Sep 2017 10:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/nci_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing for genetic associations in case-control studies incorporating multivariate disease characteristics</title>
+      <link>https://andrewhaoyu.github.io/talk/jsm_2017/</link>
+      <pubDate>Wed, 02 Aug 2017 01:30:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/jsm_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mixture approach to estimating a population-averaged value</title>
+      <link>https://andrewhaoyu.github.io/talk/enar_2017/</link>
+      <pubDate>Wed, 15 Mar 2017 11:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/enar_2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

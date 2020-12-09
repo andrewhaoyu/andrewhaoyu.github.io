@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Inference analysis | Haoyu Zhang</title>
+    <link>https://andrewhaoyu.github.io/tag/causal-inference-analysis/</link>
+      <atom:link href="https://andrewhaoyu.github.io/tag/causal-inference-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Inference analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Sun, 02 Aug 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Causal Inference analysis</title>
+      <link>https://andrewhaoyu.github.io/tag/causal-inference-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Robust Mendelian randomization analysis with weak instruments</title>
+      <link>https://andrewhaoyu.github.io/talk/jsm_2020/</link>
+      <pubDate>Sun, 02 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/talk/jsm_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
