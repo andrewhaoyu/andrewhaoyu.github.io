@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewhaoyu.github.io/</loc>
+    <lastmod>2020-12-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/talk/icsa_2020/</loc>
+    <lastmod>2020-12-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/talk/</loc>
+    <lastmod>2020-12-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewhaoyu.github.io/publication-type/2/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>https://andrewhaoyu.github.io/tag/cancer-epidemiology/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://andrewhaoyu.github.io/talk/bcac_2020/</loc>
-    <lastmod>2020-09-21T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/talk/</loc>
     <lastmod>2020-09-21T08:00:00+00:00</lastmod>
   </url>
   
