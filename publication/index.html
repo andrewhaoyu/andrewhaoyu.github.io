@@ -78,7 +78,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -89,8 +89,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
@@ -234,6 +234,7 @@
       
       
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+      
     
   
 
@@ -241,7 +242,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.6270ff73f6f7976b4b2d19ec60353ab1.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.7b133b0f458abe79e4c849ef90288591.css">
 
   
 
@@ -260,7 +262,10 @@
   <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Haoyu Zhang">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_192x192_fill_lanczos_center_2.png">
 
@@ -314,9 +319,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7264cf0eba3b66951b36da7d2cecf9c5.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -325,16 +335,19 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
 
     </section>
     <section class="section-search-results">
@@ -346,6 +359,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -695,6 +709,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -863,8 +883,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/sharayu-mhatre/">Sharayu Mhatre</a></span>, <span ><a href="/author/rebecca-c.-richmond/">Rebecca C. Richmond</a></span>, <span ><a href="/author/nilanjan-chatterjee/">Nilanjan Chatterjee</a></span>, <span ><a href="/author/preetha-rajaraman/">Preetha Rajaraman</a></span>, <span ><a href="/author/zhaoming-wang/">Zhaoming Wang</a></span>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/rajendra-badwe/">Rajendra Badwe</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/sharayu-mhatre/">Sharayu Mhatre</a></span>, <span >
+      <a href="/author/rebecca-c.-richmond/">Rebecca C. Richmond</a></span>, <span >
+      <a href="/author/nilanjan-chatterjee/">Nilanjan Chatterjee</a></span>, <span >
+      <a href="/author/preetha-rajaraman/">Preetha Rajaraman</a></span>, <span >
+      <a href="/author/zhaoming-wang/">Zhaoming Wang</a></span>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/rajendra-badwe/">Rajendra Badwe</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </span>
   (2020).
   <a href="/publication/gallstone/">The role of gallstones in gallbladder cancer in India: a Mendelian randomization study</a>.
@@ -885,7 +912,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cebp.aacrjournals.org/content/early/2020/11/13/1055-9965.EPI-20-0919.abstract" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cebp.aacrjournals.org/content/early/2020/11/13/1055-9965.EPI-20-0919.abstract" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -903,7 +930,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1158/1055-9965.EPI-20-0919" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1158/1055-9965.EPI-20-0919" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -933,8 +960,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/yan-d.-zhang/">Yan D. Zhang</a></span>, <span ><a href="/author/amber-n.-hurson/">Amber N. Hurson</a></span>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/parichoy-pal-choundhury/">Parichoy Pal Choundhury</a></span>, <span ><a href="/author/douglas-f.-easton/">Douglas F. Easton</a></span>, <span ><a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span ><a href="/author/jacques-simard/">Jacques Simard</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/yan-d.-zhang/">Yan D. Zhang</a></span>, <span >
+      <a href="/author/amber-n.-hurson/">Amber N. Hurson</a></span>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/parichoy-pal-choundhury/">Parichoy Pal Choundhury</a></span>, <span >
+      <a href="/author/douglas-f.-easton/">Douglas F. Easton</a></span>, <span >
+      <a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span >
+      <a href="/author/jacques-simard/">Jacques Simard</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </span>
   (2020).
   <a href="/publication/cancer_effectsize/">Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers</a>.
@@ -955,7 +989,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41467-020-16483-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41467-020-16483-3" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -966,7 +1000,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/yandorazhang/CancerEffectSize" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/yandorazhang/CancerEffectSize" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -981,7 +1015,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41467-020-16483-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41467-020-16483-3" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1011,8 +1045,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/kyriaki-michailidou/">Kyriaki Michailidou</a></span>, <span ><a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span ><a href="/author/manjeet-k.-bolla/">Manjeet K. Bolla</a></span>, <span ><a href="/author/joe-dennis/">Joe Dennis</a></span>, <span ><a href="/author/alison-m.-dunning/">Alison M. Dunning</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/kyriaki-michailidou/">Kyriaki Michailidou</a></span>, <span >
+      <a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span >
+      <a href="/author/manjeet-k.-bolla/">Manjeet K. Bolla</a></span>, <span >
+      <a href="/author/joe-dennis/">Joe Dennis</a></span>, <span >
+      <a href="/author/alison-m.-dunning/">Alison M. Dunning</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </span>
   (2020).
   <a href="/publication/known_snps/">Common variants in breast cancer risk loci predispose to distinct tumor subtypes</a>.
@@ -1033,7 +1074,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/733402v2.full" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/733402v2.full" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1044,7 +1085,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis/tree/master/known_SNPs" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis/tree/master/known_SNPs" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1085,8 +1126,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/julie-lecarpentier/">Julie Lecarpentier</a></span>, <span ><a href="/author/daniel-barnes/">Daniel Barnes</a></span>, <span ><a href="/author/jonathan-beesley/">Jonathan Beesley</a></span>, <span ><a href="/author/guanghao-qi/">Guanghao Qi</a></span>, <span ><a href="/author/xia-jiang/">Xia Jiang</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/julie-lecarpentier/">Julie Lecarpentier</a></span>, <span >
+      <a href="/author/daniel-barnes/">Daniel Barnes</a></span>, <span >
+      <a href="/author/jonathan-beesley/">Jonathan Beesley</a></span>, <span >
+      <a href="/author/guanghao-qi/">Guanghao Qi</a></span>, <span >
+      <a href="/author/xia-jiang/">Xia Jiang</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </span>
   (2020).
   <a href="/publication/breast_cancer/">Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses</a>.
@@ -1107,7 +1155,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41588-020-0609-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41588-020-0609-2" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1118,7 +1166,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1133,7 +1181,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41588-020-0609-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41588-020-0609-2" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1163,8 +1211,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/ni-zhao/">Ni Zhao</a></span>, <span ><a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span>, <span ><a href="/author/william-wheeler/">William Wheeler</a></span>, <span ><a href="/author/montserrat-garcia-closas/">Montserrat García-Closas</a></span>, <span ><a href="/author/and-nilanjan-chatterjee/">and Nilanjan Chatterjee</a></span>
+  <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/ni-zhao/">Ni Zhao</a></span>, <span >
+      <a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span>, <span >
+      <a href="/author/william-wheeler/">William Wheeler</a></span>, <span >
+      <a href="/author/montserrat-garcia-closas/">Montserrat García-Closas</a></span>, <span >
+      <a href="/author/and-nilanjan-chatterjee/">and Nilanjan Chatterjee</a></span>
   </span>
   (2020).
   <a href="/publication/mtop/">A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</a>.
@@ -1185,7 +1238,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz065/5767158" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz065/5767158" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1196,7 +1249,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/andrewhaoyu/TOP" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrewhaoyu/TOP" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1211,7 +1264,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/biostatistics/kxz065" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1093/biostatistics/kxz065" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1241,8 +1294,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/stella-koutros/">Stella Koutros</a></span>, <span ><a href="/author/manolis-kogevinas/">Manolis Kogevinas</a></span>, <span ><a href="/author/melissa-c.-friesen/">Melissa C. Friesen</a></span>, <span ><a href="/author/patricia-a.-stewart/">Patricia A. Stewart</a></span>, <span ><a href="/author/dalsu-baris/">Dalsu Baris</a></span>, <span ><a href="/author/margaret-r.-karagas/">Margaret R. Karagas</a></span>, <span ><a href="/author/molly-schwenn/">Molly Schwenn</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/stella-koutros/">Stella Koutros</a></span>, <span >
+      <a href="/author/manolis-kogevinas/">Manolis Kogevinas</a></span>, <span >
+      <a href="/author/melissa-c.-friesen/">Melissa C. Friesen</a></span>, <span >
+      <a href="/author/patricia-a.-stewart/">Patricia A. Stewart</a></span>, <span >
+      <a href="/author/dalsu-baris/">Dalsu Baris</a></span>, <span >
+      <a href="/author/margaret-r.-karagas/">Margaret R. Karagas</a></span>, <span >
+      <a href="/author/molly-schwenn/">Molly Schwenn</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </span>
   (2020).
   <a href="/publication/diesel_bladder/">Diesel exhaust and bladder cancer risk by pathologic stage and grade subtypes</a>.
@@ -1263,7 +1323,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S016041201930282X" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S016041201930282X" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1281,7 +1341,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.envint.2019.105346" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.envint.2019.105346" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1311,8 +1371,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/ni-zhao/">Ni Zhao</a></span>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/jennifer-j.-clark/">Jennifer J. Clark</a></span>, <span ><a href="/author/arnab-maity/">Arnab Maity</a></span>, <span ><a href="/author/and-michael-c.-wu/">and Michael C. Wu</a></span>
+  <span >
+      <a href="/author/ni-zhao/">Ni Zhao</a></span>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/jennifer-j.-clark/">Jennifer J. Clark</a></span>, <span >
+      <a href="/author/arnab-maity/">Arnab Maity</a></span>, <span >
+      <a href="/author/and-michael-c.-wu/">and Michael C. Wu</a></span>
   </span>
   (2018).
   <a href="/publication/composite_kernel_machine/">Composite kernel machine regression based on likelihood ratio test for joint testing of genetic and gene–environment interaction effect</a>.
@@ -1333,7 +1397,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13003" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13003" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1344,7 +1408,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cran.r%e2%80%90project.org/web/packages/CKLRT/index.html" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cran.r%e2%80%90project.org/web/packages/CKLRT/index.html" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1359,7 +1423,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/biom.13003" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/biom.13003" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1389,8 +1453,11 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/qingxiang-hu/">Qingxiang Hu</a></span>, <span ><a href="/author/zhenyu-ding/">Zhenyu Ding</a></span>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/yaohua-he/">Yaohua He</a></span>
+  <span >
+      <a href="/author/qingxiang-hu/">Qingxiang Hu</a></span>, <span >
+      <a href="/author/zhenyu-ding/">Zhenyu Ding</a></span>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/yaohua-he/">Yaohua He</a></span>
   </span>
   (2018).
   <a href="/publication/superior_glenohumeral/">The superior glenohumeral joint capsule alone does not prevent superior translation of the humeral head: an in vitro biomechanical study</a>.
@@ -1411,7 +1478,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://pubmed.ncbi.nlm.nih.gov/30253900/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubmed.ncbi.nlm.nih.gov/30253900/" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1429,7 +1496,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.arthro.2018.06.025" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.arthro.2018.06.025" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1459,8 +1526,10 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/andriy-derkach/">Andriy Derkach</a></span>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/nilanjan-chatterjee/">Nilanjan Chatterjee</a></span>
+  <span >
+      <a href="/author/andriy-derkach/">Andriy Derkach</a></span>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/nilanjan-chatterjee/">Nilanjan Chatterjee</a></span>
   </span>
   (2017).
   <a href="/publication/pageant/">Power Analysis for Genetic Association Test (PAGEANT) provides insights to challenges for rare variant association studies</a>.
@@ -1481,7 +1550,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://academic.oup.com/bioinformatics/article/34/9/1506/4670682" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/bioinformatics/article/34/9/1506/4670682" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1492,7 +1561,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://andrewhaoyu.shinyapps.io/PAGEANT/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://andrewhaoyu.shinyapps.io/PAGEANT/" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1507,7 +1576,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/btx770" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1093/bioinformatics/btx770" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1537,8 +1606,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/sharayu-mhatre/">Sharayu Mhatre</a></span>, <span ><a href="/author/zhaoming-wang/">Zhaoming Wang</a></span>, <span ><a href="/author/rajini-nagrani/">Rajini Nagrani</a></span>, <span ><a href="/author/rajendra-badwe/">Rajendra Badwe</a></span>, <span ><a href="/author/shubhada-chiplunkar/">Shubhada Chiplunkar</a></span>, <span ><a href="/author/balraj-mittal/">Balraj Mittal</a></span>, <span ><a href="/author/saurabh-yadav/">Saurabh Yadav</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/sharayu-mhatre/">Sharayu Mhatre</a></span>, <span >
+      <a href="/author/zhaoming-wang/">Zhaoming Wang</a></span>, <span >
+      <a href="/author/rajini-nagrani/">Rajini Nagrani</a></span>, <span >
+      <a href="/author/rajendra-badwe/">Rajendra Badwe</a></span>, <span >
+      <a href="/author/shubhada-chiplunkar/">Shubhada Chiplunkar</a></span>, <span >
+      <a href="/author/balraj-mittal/">Balraj Mittal</a></span>, <span >
+      <a href="/author/saurabh-yadav/">Saurabh Yadav</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </span>
   (2017).
   <a href="/publication/gallbladder_gwas/">Common genetic variation and risk of gallbladder cancer in India: a case-control genome-wide association study</a>.
@@ -1559,7 +1635,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S1470204517301675" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S1470204517301675" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1577,7 +1653,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/S1470-2045%2817%2930167-5" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/S1470-2045%2817%2930167-5" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1695,7 +1771,7 @@
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -1747,12 +1823,12 @@
     
     
     
+    
+      
       
     
     
-    
-    
-    <script src="/js/wowchemy.min.7c1f36db068b19853b100160e00076ac.js"></script>
+    <script src="/js/wowchemy.min.aeecf26c1eff6b9588dbafc1a9f3953c.js"></script>
 
     
 

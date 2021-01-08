@@ -78,7 +78,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -89,8 +89,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
@@ -234,6 +234,7 @@
       
       
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+      
     
   
 
@@ -241,7 +242,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.6270ff73f6f7976b4b2d19ec60353ab1.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.7b133b0f458abe79e4c849ef90288591.css">
 
   
 
@@ -262,7 +264,10 @@
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Haoyu Zhang">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_192x192_fill_lanczos_center_2.png">
 
@@ -330,9 +335,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7264cf0eba3b66951b36da7d2cecf9c5.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -341,16 +351,19 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
 
     </section>
     <section class="section-search-results">
@@ -362,6 +375,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -711,6 +725,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -777,6 +797,8 @@
   
   
   
+  
+
   
 
   
@@ -953,15 +975,17 @@
     
     <h1>About</h1>
 
-    <p>Welcome to my homepage! My name is Haoyu Zhang, a postdoc in the <a href="https://www.hsph.harvard.edu/biostatistics/" target="_blank" rel="noopener">Department of Biostatistics </a> at <a href="https://www.hsph.harvard.edu/" target="_blank" rel="noopener">Harvard T.H. Chan School of Public Health</a> working with <a href="https://www.hsph.harvard.edu/xihong-lin/" target="_blank" rel="noopener">Xihong Lin</a> on statistical genetics, causal mediation and COVID-19 analysis. Currently, I am interested in addressing the weak intruments bias in Mendelian Randomization, developing multi-ethnic polygenic risk scores, and quantifying the COVID-19 tranmission pattern on U.S. states and county level data. I have received the <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-20-056.html" target="_blank" rel="noopener">K99/R00 Pathway to Independence Award</a>  from <a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a>.</p>
+    <div class="article-style">
+      <p>Welcome to my homepage! My name is Haoyu Zhang, a postdoc in the <a href="https://www.hsph.harvard.edu/biostatistics/" target="_blank" rel="noopener">Department of Biostatistics </a> at <a href="https://www.hsph.harvard.edu/" target="_blank" rel="noopener">Harvard T.H. Chan School of Public Health</a> working with <a href="https://www.hsph.harvard.edu/xihong-lin/" target="_blank" rel="noopener">Xihong Lin</a> on statistical genetics, causal mediation and COVID-19 analysis. Currently, I am interested in addressing the weak intruments bias in Mendelian Randomization, developing multi-ethnic polygenic risk scores, and quantifying the COVID-19 tranmission pattern on U.S. states and county level data. I have received the <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-20-056.html" target="_blank" rel="noopener">K99/R00 Pathway to Independence Award</a>  from <a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a>.</p>
 <p>I received my Ph.D. from the <a href="https://www.jhsph.edu/departments/biostatistics/" target="_blank" rel="noopener">Department of Biostatistics</a> at <a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins Bloomberg School of Public Health</a> under the guidance of <a href="https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee" target="_blank" rel="noopener">Nilanjan Chatterjee</a> and <a href="https://www.jhsph.edu/faculty/directory/profile/3331/ni-zhao" target="_blank" rel="noopener">Ni Zhao</a>. I also received the <a href="https://www.training.nih.gov/programs/gpp" target="_blank" rel="noopener">graduate student fellowship</a> from <a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a> under the guidance of <a href="https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat" target="_blank" rel="noopener">Montserrat García-Closas</a>. My PhD dissertation focused on testing for genetic association and building risk prediction models for cancer incorporating tumor characteristics. I led several multidisciplinary international collaborations using the largest breast cancer GWAS dataset from the <a href="http://bcac.ccge.medschl.cam.ac.uk/" target="_blank" rel="noopener">Breast Cancer Association Consortium</a> (BCAC).</p>
 
+    </div>
 
     <div class="row">
 
       
       <div class="col-md-5">
-        <h3>Interests</h3>
+        <div class="section-subheading">Interests</div>
         <ul class="ul-interests">
           
           <li>Statistical Genetics</li>
@@ -976,7 +1000,7 @@
 
       
       <div class="col-md-7">
-        <h3>Education</h3>
+        <div class="section-subheading">Education</div>
         <ul class="ul-edu fa-ul">
           
           <li>
@@ -1012,6 +1036,8 @@
   
   
   
+  
+
   
 
   
@@ -1079,7 +1105,7 @@
   
   
     <div class="card experience course">
-      <div class="card-body"><a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-20-056.html" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">K99/R00 NCI Pathway to Independence Award</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a><span class="middot-divider"></span>
+      <div class="card-body"><a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-20-056.html" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">K99/R00 NCI Pathway to Independence Award</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a><span class="middot-divider"></span>
 
           Jan 2021
           
@@ -1096,7 +1122,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><a href="https://www.training.nih.gov/programs/gpp" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Pre-doctoral fellowship</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a><span class="middot-divider"></span>
+      <div class="card-body"><a href="https://www.training.nih.gov/programs/gpp" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">Pre-doctoral fellowship</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a><span class="middot-divider"></span>
 
           Jul 2017
           
@@ -1124,6 +1150,8 @@
   
   
   
+  
+
   
 
   
@@ -1191,7 +1219,7 @@
   
   
     <div class="card experience course">
-      <div class="card-body"><a href="https://community.amstat.org/sectiononstatisticsingenomicsandgenetics/new-item" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Distinguished Student Paper Award</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.amstat.org/" target="_blank" rel="noopener">American Statistical Association Section on Statistics in Genomics and Genetics</a><span class="middot-divider"></span>
+      <div class="card-body"><a href="https://community.amstat.org/sectiononstatisticsingenomicsandgenetics/new-item" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">Distinguished Student Paper Award</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.amstat.org/" target="_blank" rel="noopener">American Statistical Association Section on Statistics in Genomics and Genetics</a><span class="middot-divider"></span>
 
           Aug 2019
           
@@ -1204,7 +1232,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><a href="https://www.jhsph.edu/alumni/engage-with-alumni/join-an-association/delta-omega/faqs.html" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Delta Omega Public Health Honor Society, Alpha Chapter</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
+      <div class="card-body"><a href="https://www.jhsph.edu/alumni/engage-with-alumni/join-an-association/delta-omega/faqs.html" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">Delta Omega Public Health Honor Society, Alpha Chapter</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
 
           May 2019
           
@@ -1217,7 +1245,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><a href="https://www.jhsph.edu/admissions/funding-for-students/fund/1/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Delta Omega Scholarship</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
+      <div class="card-body"><a href="https://www.jhsph.edu/admissions/funding-for-students/fund/1/" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">Delta Omega Scholarship</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
 
           Apr 2019
           
@@ -1230,7 +1258,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><a href="http://www.biostat.jhsph.edu/newsEvent/award/dublinaward.shtml" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Louis I. and Thomas D. Dublin Award</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
+      <div class="card-body"><a href="http://www.biostat.jhsph.edu/newsEvent/award/dublinaward.shtml" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">Louis I. and Thomas D. Dublin Award</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
 
           Mar 2019
           
@@ -1243,7 +1271,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><a href="https://dceg.cancer.gov/news-events/news/2018/2018-fall-town-hall" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">DCEG Fellows Award for Research Excellence (DFARE)</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a><span class="middot-divider"></span>
+      <div class="card-body"><a href="https://dceg.cancer.gov/news-events/news/2018/2018-fall-town-hall" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">DCEG Fellows Award for Research Excellence (DFARE)</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a><span class="middot-divider"></span>
 
           Nov 2018
           
@@ -1269,6 +1297,8 @@
   
   
   
+  
+
   
 
   
@@ -1397,8 +1427,15 @@
   <div>
     
 
-  
-  <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/julie-lecarpentier/">Julie Lecarpentier</a></span>, <span ><a href="/author/daniel-barnes/">Daniel Barnes</a></span>, <span ><a href="/author/jonathan-beesley/">Jonathan Beesley</a></span>, <span ><a href="/author/guanghao-qi/">Guanghao Qi</a></span>, <span ><a href="/author/xia-jiang/">Xia Jiang</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/julie-lecarpentier/">Julie Lecarpentier</a></span>, <span >
+      <a href="/author/daniel-barnes/">Daniel Barnes</a></span>, <span >
+      <a href="/author/jonathan-beesley/">Jonathan Beesley</a></span>, <span >
+      <a href="/author/guanghao-qi/">Guanghao Qi</a></span>, <span >
+      <a href="/author/xia-jiang/">Xia Jiang</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </div>
   
   
@@ -1477,7 +1514,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41588-020-0609-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41588-020-0609-2" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1488,7 +1525,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1503,7 +1540,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41588-020-0609-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41588-020-0609-2" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1534,6 +1571,8 @@
   
   
   
+  
+
   
 
   
@@ -1695,8 +1734,15 @@
   <div>
     
 
-  
-  <span ><a href="/author/sharayu-mhatre/">Sharayu Mhatre</a></span>, <span ><a href="/author/rebecca-c.-richmond/">Rebecca C. Richmond</a></span>, <span ><a href="/author/nilanjan-chatterjee/">Nilanjan Chatterjee</a></span>, <span ><a href="/author/preetha-rajaraman/">Preetha Rajaraman</a></span>, <span ><a href="/author/zhaoming-wang/">Zhaoming Wang</a></span>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/rajendra-badwe/">Rajendra Badwe</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/sharayu-mhatre/">Sharayu Mhatre</a></span>, <span >
+      <a href="/author/rebecca-c.-richmond/">Rebecca C. Richmond</a></span>, <span >
+      <a href="/author/nilanjan-chatterjee/">Nilanjan Chatterjee</a></span>, <span >
+      <a href="/author/preetha-rajaraman/">Preetha Rajaraman</a></span>, <span >
+      <a href="/author/zhaoming-wang/">Zhaoming Wang</a></span>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/rajendra-badwe/">Rajendra Badwe</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </div>
   
   
@@ -1753,7 +1799,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cebp.aacrjournals.org/content/early/2020/11/13/1055-9965.EPI-20-0919.abstract" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cebp.aacrjournals.org/content/early/2020/11/13/1055-9965.EPI-20-0919.abstract" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1771,7 +1817,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1158/1055-9965.EPI-20-0919" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1158/1055-9965.EPI-20-0919" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1844,8 +1890,15 @@
   <div>
     
 
-  
-  <span ><a href="/author/yan-d.-zhang/">Yan D. Zhang</a></span>, <span ><a href="/author/amber-n.-hurson/">Amber N. Hurson</a></span>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/parichoy-pal-choundhury/">Parichoy Pal Choundhury</a></span>, <span ><a href="/author/douglas-f.-easton/">Douglas F. Easton</a></span>, <span ><a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span ><a href="/author/jacques-simard/">Jacques Simard</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/yan-d.-zhang/">Yan D. Zhang</a></span>, <span >
+      <a href="/author/amber-n.-hurson/">Amber N. Hurson</a></span>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/parichoy-pal-choundhury/">Parichoy Pal Choundhury</a></span>, <span >
+      <a href="/author/douglas-f.-easton/">Douglas F. Easton</a></span>, <span >
+      <a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span >
+      <a href="/author/jacques-simard/">Jacques Simard</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </div>
   
   
@@ -1902,7 +1955,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41467-020-16483-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41467-020-16483-3" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1913,7 +1966,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/yandorazhang/CancerEffectSize" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/yandorazhang/CancerEffectSize" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1928,7 +1981,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41467-020-16483-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41467-020-16483-3" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2008,8 +2061,15 @@
   <div>
     
 
-  
-  <span ><a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/kyriaki-michailidou/">Kyriaki Michailidou</a></span>, <span ><a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span ><a href="/author/manjeet-k.-bolla/">Manjeet K. Bolla</a></span>, <span ><a href="/author/joe-dennis/">Joe Dennis</a></span>, <span ><a href="/author/alison-m.-dunning/">Alison M. Dunning</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span >
+      <a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/kyriaki-michailidou/">Kyriaki Michailidou</a></span>, <span >
+      <a href="/author/roger-l.-milne/">Roger L. Milne</a></span>, <span >
+      <a href="/author/manjeet-k.-bolla/">Manjeet K. Bolla</a></span>, <span >
+      <a href="/author/joe-dennis/">Joe Dennis</a></span>, <span >
+      <a href="/author/alison-m.-dunning/">Alison M. Dunning</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </div>
   
   
@@ -2066,7 +2126,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/733402v2.full" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/733402v2.full" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2077,7 +2137,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis/tree/master/known_SNPs" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis/tree/master/known_SNPs" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -2168,8 +2228,15 @@
   <div>
     
 
-  
-  <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span ><a href="/author/julie-lecarpentier/">Julie Lecarpentier</a></span>, <span ><a href="/author/daniel-barnes/">Daniel Barnes</a></span>, <span ><a href="/author/jonathan-beesley/">Jonathan Beesley</a></span>, <span ><a href="/author/guanghao-qi/">Guanghao Qi</a></span>, <span ><a href="/author/xia-jiang/">Xia Jiang</a></span>, <span ><a href="/author/others/">Others</a></span>
+  <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      <a href="/author/julie-lecarpentier/">Julie Lecarpentier</a></span>, <span >
+      <a href="/author/daniel-barnes/">Daniel Barnes</a></span>, <span >
+      <a href="/author/jonathan-beesley/">Jonathan Beesley</a></span>, <span >
+      <a href="/author/guanghao-qi/">Guanghao Qi</a></span>, <span >
+      <a href="/author/xia-jiang/">Xia Jiang</a></span>, <span >
+      <a href="/author/others/">Others</a></span>
   </div>
   
   
@@ -2226,7 +2293,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41588-020-0609-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41588-020-0609-2" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2237,7 +2304,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrewhaoyu/breast_cancer_data_analysis" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -2252,7 +2319,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41588-020-0609-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41588-020-0609-2" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2332,8 +2399,13 @@
   <div>
     
 
-  
-  <span class="author-highlighted"><a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span ><a href="/author/ni-zhao/">Ni Zhao</a></span>, <span ><a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span>, <span ><a href="/author/william-wheeler/">William Wheeler</a></span>, <span ><a href="/author/montserrat-garcia-closas/">Montserrat García-Closas</a></span>, <span ><a href="/author/and-nilanjan-chatterjee/">and Nilanjan Chatterjee</a></span>
+  <span class="author-highlighted">
+      <a href="/author/haoyu-zhang/">Haoyu Zhang</a></span>, <span >
+      <a href="/author/ni-zhao/">Ni Zhao</a></span>, <span >
+      <a href="/author/thomas-u.-ahearn/">Thomas U. Ahearn</a></span>, <span >
+      <a href="/author/william-wheeler/">William Wheeler</a></span>, <span >
+      <a href="/author/montserrat-garcia-closas/">Montserrat García-Closas</a></span>, <span >
+      <a href="/author/and-nilanjan-chatterjee/">and Nilanjan Chatterjee</a></span>
   </div>
   
   
@@ -2390,7 +2462,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz065/5767158" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz065/5767158" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2401,7 +2473,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/andrewhaoyu/TOP" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrewhaoyu/TOP" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -2416,7 +2488,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/biostatistics/kxz065" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1093/biostatistics/kxz065" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2474,6 +2546,8 @@
   
   
   
+  
+
   
 
   
@@ -3044,7 +3118,7 @@
 
     <div class="see-all">
       <a href="/talk/">
-        See all talks
+        See all events
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
@@ -3063,6 +3137,8 @@
   
   
   
+  
+
   
 
   
@@ -3130,7 +3206,7 @@
   
   
     <div class="card experience course">
-      <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Lab instructor for Statistical Methods in Public Health II-III (Biostat 622-623)</h4><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Lab instructor for Statistical Methods in Public Health II-III (Biostat 622-623)</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
 
           Oct 2018
           
@@ -3145,7 +3221,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Lab Instructor for Statistical Methods in Public Health II-III (Biostat 622-623)</h4><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Lab Instructor for Statistical Methods in Public Health II-III (Biostat 622-623)</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
 
           Oct 2017
           
@@ -3160,7 +3236,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Teaching Assistnat for Statistical Methods in Public Health I-IV (Biostat 621-624)</h4><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Teaching Assistnat for Statistical Methods in Public Health I-IV (Biostat 621-624)</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
 
           Sep 2016
           
@@ -3175,7 +3251,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Teaching Assistnat for Statistical Theory I-IV (Biostat 731-734)</h4><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Teaching Assistnat for Statistical Theory I-IV (Biostat 731-734)</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.jhsph.edu/" target="_blank" rel="noopener">Johns Hopkins University</a><span class="middot-divider"></span>
 
           Sep 2015
           
@@ -3190,7 +3266,7 @@
     </div>
   
     <div class="card experience course">
-      <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Teaching Assistnat for Survey Methodology</h4><div class="card-subtitle my-0 article-metadata"><a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener">Zhejiang University</a><span class="middot-divider"></span>
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Teaching Assistnat for Survey Methodology</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener">Zhejiang University</a><span class="middot-divider"></span>
 
           Feb 2014
           
@@ -3218,6 +3294,8 @@
   
   
   
+  
+
   
 
   
@@ -3304,8 +3382,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Postdoral fellow</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.hsph.harvard.edu/biostatistics/" target="_blank" rel="noopener">Harvard University, Department of Biostatistics</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Postdoral fellow</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.hsph.harvard.edu/biostatistics/" target="_blank" rel="noopener">Harvard University, Department of Biostatistics</a></div>
           <div class="text-muted exp-meta">
             Aug 2019 –
             
@@ -3341,8 +3419,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Special volunteer</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Special volunteer</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a></div>
           <div class="text-muted exp-meta">
             Aug 2019 –
             
@@ -3378,8 +3456,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Pre-doctoral fellow</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Pre-doctoral fellow</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.cancer.gov/" target="_blank" rel="noopener">National Cancer Institute</a></div>
           <div class="text-muted exp-meta">
             Jul 2017 –
             
@@ -3415,8 +3493,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Research assistant</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.jhsph.edu/departments/biostatistics/" target="_blank" rel="noopener">Johns Hopkins University, Department of Biostatistics</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Research assistant</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.jhsph.edu/departments/biostatistics/" target="_blank" rel="noopener">Johns Hopkins University, Department of Biostatistics</a></div>
           <div class="text-muted exp-meta">
             Oct 2015 –
             
@@ -3452,8 +3530,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Research assistant</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://publichealth.yale.edu/research_practice/departments/biostat/" target="_blank" rel="noopener">Yale University, Department of Biostatistics</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Research assistant</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://publichealth.yale.edu/research_practice/departments/biostat/" target="_blank" rel="noopener">Yale University, Department of Biostatistics</a></div>
           <div class="text-muted exp-meta">
             Jul 2013 –
             
@@ -3489,8 +3567,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Research assistant</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://qbi.uq.edu.au/" target="_blank" rel="noopener">The University of Queensland, Queensland Brain Institute</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Research assistant</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://qbi.uq.edu.au/" target="_blank" rel="noopener">The University of Queensland, Queensland Brain Institute</a></div>
           <div class="text-muted exp-meta">
             Jul 2012 –
             
@@ -3526,8 +3604,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Volunteer</h4>
-          <h4 class="card-title exp-company text-muted my-0">Sharadadevi Gramudyog Utpadak Mandali Ltd (SGS)</h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Volunteer</div>
+          <div class="section-subheading card-title exp-company text-muted my-0">Sharadadevi Gramudyog Utpadak Mandali Ltd (SGS)</div>
           <div class="text-muted exp-meta">
             Jun 2011 –
             
@@ -3558,6 +3636,8 @@
   
   
   
+  
+
   
 
   
@@ -3625,7 +3705,7 @@
     
     <div class="featurette-icon">🏃</div>
     
-    <h3>Running</h3>
+    <div class="section-subheading">Running</div>
     <p>Aim to qualify for Boston marathon in 2025</p>
   </div>
   
@@ -3636,7 +3716,7 @@
     
     <div class="featurette-icon">🏀</div>
     
-    <h3>Basketball</h3>
+    <div class="section-subheading">Basketball</div>
     <p>Fan of Miami Heat!</p>
   </div>
   
@@ -3647,7 +3727,7 @@
     
     <div class="featurette-icon">🎮</div>
     
-    <h3>Gaming</h3>
+    <div class="section-subheading">Gaming</div>
     <p>Witcher 3, Civiliation 6, NBA 2K</p>
   </div>
   
@@ -3658,7 +3738,7 @@
     
     <div class="featurette-icon">🚣‍♂️</div>
     
-    <h3>Dragon boat</h3>
+    <div class="section-subheading">Dragon boat</div>
     <p>Member of dragonboat team</p>
   </div>
   
@@ -3669,7 +3749,7 @@
     
     <div class="featurette-icon">⛰️</div>
     
-    <h3>Hiking</h3>
+    <div class="section-subheading">Hiking</div>
     
   </div>
   
@@ -3680,7 +3760,7 @@
     
     <div class="featurette-icon">♥️</div>
     
-    <h3>Poker</h3>
+    <div class="section-subheading">Poker</div>
     <p>Texas Holdem, Shengji, Mahjong</p>
   </div>
   
@@ -3695,6 +3775,8 @@
   
   
   
+  
+
   
 
   
@@ -3922,7 +4004,7 @@
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -3986,12 +4068,12 @@
     
     
     
+    
+      
       
     
     
-    
-    
-    <script src="/js/wowchemy.min.7c1f36db068b19853b100160e00076ac.js"></script>
+    <script src="/js/wowchemy.min.aeecf26c1eff6b9588dbafc1a9f3953c.js"></script>
 
     
 
