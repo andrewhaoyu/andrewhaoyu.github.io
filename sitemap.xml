@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://andrewhaoyu.github.io/talk/pgsg_2021/</loc>
-    <lastmod>2021-05-15T02:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://andrewhaoyu.github.io/talk/icsa_2020/</loc>
     <lastmod>2020-12-15T15:00:00+00:00</lastmod>
   </url>
@@ -514,6 +509,10 @@
   
   <url>
     <loc>https://andrewhaoyu.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/talk/pgsg_2021/</loc>
   </url>
   
   <url>
