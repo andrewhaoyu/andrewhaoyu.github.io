@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Haoyu Zhang</title>
+    <title>Posts on Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/post/</link>
-      <atom:link href="https://andrewhaoyu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright>
-    <image>
-      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>https://andrewhaoyu.github.io/post/</link>
-    </image>
-    
+    <description>Recent content in Posts on Haoyu Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved</copyright><atom:link href="https://andrewhaoyu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

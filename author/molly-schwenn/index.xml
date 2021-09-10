@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Molly Schwenn | Haoyu Zhang</title>
+    <title>Molly Schwenn on Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/author/molly-schwenn/</link>
-      <atom:link href="https://andrewhaoyu.github.io/author/molly-schwenn/index.xml" rel="self" type="application/rss+xml" />
-    <description>Molly Schwenn</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
-      <title>Molly Schwenn</title>
-      <link>https://andrewhaoyu.github.io/author/molly-schwenn/</link>
-    </image>
-    
+    <description>Recent content in Molly Schwenn on Haoyu Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/author/molly-schwenn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diesel exhaust and bladder cancer risk by pathologic stage and grade subtypes</title>
       <link>https://andrewhaoyu.github.io/publication/diesel_bladder/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewhaoyu.github.io/publication/diesel_bladder/</guid>
       <description></description>
     </item>

@@ -1,16 +1,426 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Haoyu Zhang</title>
+    <title>Authors on Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/authors/</link>
-      <atom:link href="https://andrewhaoyu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://andrewhaoyu.github.io/authors/</link>
-    </image>
+    <description>Recent content in Authors on Haoyu Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haoyu Zhang</title>
+      <link>https://andrewhaoyu.github.io/author/haoyu-zhang/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/haoyu-zhang/</guid>
+      <description>Welcome to my homepage! My name is Haoyu Zhang, a postdoc in the Department of Biostatistics  at Harvard T.H. Chan School of Public Health working with Xihong Lin on statistical genetics, causal mediation and COVID-19 analysis.</description>
+    </item>
+    
+    <item>
+      <title>Nilanjan Chatterjee</title>
+      <link>https://andrewhaoyu.github.io/author/nilanjan-chatterjee/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/nilanjan-chatterjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://andrewhaoyu.github.io/author/others/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preetha Rajaraman</title>
+      <link>https://andrewhaoyu.github.io/author/preetha-rajaraman/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/preetha-rajaraman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajendra Badwe</title>
+      <link>https://andrewhaoyu.github.io/author/rajendra-badwe/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/rajendra-badwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca C. Richmond</title>
+      <link>https://andrewhaoyu.github.io/author/rebecca-c.-richmond/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/rebecca-c.-richmond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharayu Mhatre</title>
+      <link>https://andrewhaoyu.github.io/author/sharayu-mhatre/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/sharayu-mhatre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhaoming Wang</title>
+      <link>https://andrewhaoyu.github.io/author/zhaoming-wang/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/zhaoming-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amber N. Hurson</title>
+      <link>https://andrewhaoyu.github.io/author/amber-n.-hurson/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/amber-n.-hurson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Douglas F. Easton</title>
+      <link>https://andrewhaoyu.github.io/author/douglas-f.-easton/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/douglas-f.-easton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacques Simard</title>
+      <link>https://andrewhaoyu.github.io/author/jacques-simard/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/jacques-simard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parichoy Pal Choundhury</title>
+      <link>https://andrewhaoyu.github.io/author/parichoy-pal-choundhury/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/parichoy-pal-choundhury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roger L. Milne</title>
+      <link>https://andrewhaoyu.github.io/author/roger-l.-milne/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/roger-l.-milne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yan D. Zhang</title>
+      <link>https://andrewhaoyu.github.io/author/yan-d.-zhang/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/yan-d.-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alison M. Dunning</title>
+      <link>https://andrewhaoyu.github.io/author/alison-m.-dunning/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/alison-m.-dunning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joe Dennis</title>
+      <link>https://andrewhaoyu.github.io/author/joe-dennis/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/joe-dennis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyriaki Michailidou</title>
+      <link>https://andrewhaoyu.github.io/author/kyriaki-michailidou/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/kyriaki-michailidou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manjeet K. Bolla</title>
+      <link>https://andrewhaoyu.github.io/author/manjeet-k.-bolla/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/manjeet-k.-bolla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas U. Ahearn</title>
+      <link>https://andrewhaoyu.github.io/author/thomas-u.-ahearn/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/thomas-u.-ahearn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Barnes</title>
+      <link>https://andrewhaoyu.github.io/author/daniel-barnes/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/daniel-barnes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guanghao Qi</title>
+      <link>https://andrewhaoyu.github.io/author/guanghao-qi/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/guanghao-qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Beesley</title>
+      <link>https://andrewhaoyu.github.io/author/jonathan-beesley/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/jonathan-beesley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julie Lecarpentier</title>
+      <link>https://andrewhaoyu.github.io/author/julie-lecarpentier/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/julie-lecarpentier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xia Jiang</title>
+      <link>https://andrewhaoyu.github.io/author/xia-jiang/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/xia-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Nilanjan Chatterjee</title>
+      <link>https://andrewhaoyu.github.io/author/and-nilanjan-chatterjee/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/and-nilanjan-chatterjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montserrat García-Closas</title>
+      <link>https://andrewhaoyu.github.io/author/montserrat-garcia-closas/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/montserrat-garcia-closas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ni Zhao</title>
+      <link>https://andrewhaoyu.github.io/author/ni-zhao/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/ni-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Wheeler</title>
+      <link>https://andrewhaoyu.github.io/author/william-wheeler/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/william-wheeler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dalsu Baris</title>
+      <link>https://andrewhaoyu.github.io/author/dalsu-baris/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/dalsu-baris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manolis Kogevinas</title>
+      <link>https://andrewhaoyu.github.io/author/manolis-kogevinas/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/manolis-kogevinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margaret R. Karagas</title>
+      <link>https://andrewhaoyu.github.io/author/margaret-r.-karagas/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/margaret-r.-karagas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melissa C. Friesen</title>
+      <link>https://andrewhaoyu.github.io/author/melissa-c.-friesen/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/melissa-c.-friesen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molly Schwenn</title>
+      <link>https://andrewhaoyu.github.io/author/molly-schwenn/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/molly-schwenn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patricia A. Stewart</title>
+      <link>https://andrewhaoyu.github.io/author/patricia-a.-stewart/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/patricia-a.-stewart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stella Koutros</title>
+      <link>https://andrewhaoyu.github.io/author/stella-koutros/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/stella-koutros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Michael C. Wu</title>
+      <link>https://andrewhaoyu.github.io/author/and-michael-c.-wu/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/and-michael-c.-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arnab Maity</title>
+      <link>https://andrewhaoyu.github.io/author/arnab-maity/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/arnab-maity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer J. Clark</title>
+      <link>https://andrewhaoyu.github.io/author/jennifer-j.-clark/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/jennifer-j.-clark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingxiang Hu</title>
+      <link>https://andrewhaoyu.github.io/author/qingxiang-hu/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/qingxiang-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaohua He</title>
+      <link>https://andrewhaoyu.github.io/author/yaohua-he/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/yaohua-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhenyu Ding</title>
+      <link>https://andrewhaoyu.github.io/author/zhenyu-ding/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/zhenyu-ding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andriy Derkach</title>
+      <link>https://andrewhaoyu.github.io/author/andriy-derkach/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/andriy-derkach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balraj Mittal</title>
+      <link>https://andrewhaoyu.github.io/author/balraj-mittal/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/balraj-mittal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajini Nagrani</title>
+      <link>https://andrewhaoyu.github.io/author/rajini-nagrani/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/rajini-nagrani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saurabh Yadav</title>
+      <link>https://andrewhaoyu.github.io/author/saurabh-yadav/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/saurabh-yadav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shubhada Chiplunkar</title>
+      <link>https://andrewhaoyu.github.io/author/shubhada-chiplunkar/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/author/shubhada-chiplunkar/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

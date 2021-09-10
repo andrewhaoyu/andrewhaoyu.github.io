@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andriy Derkach | Haoyu Zhang</title>
+    <title>Andriy Derkach on Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/author/andriy-derkach/</link>
-      <atom:link href="https://andrewhaoyu.github.io/author/andriy-derkach/index.xml" rel="self" type="application/rss+xml" />
-    <description>Andriy Derkach</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
-      <title>Andriy Derkach</title>
-      <link>https://andrewhaoyu.github.io/author/andriy-derkach/</link>
-    </image>
-    
+    <description>Recent content in Andriy Derkach on Haoyu Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/author/andriy-derkach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power Analysis for Genetic Association Test (PAGEANT) provides insights to challenges for rare variant association studies</title>
       <link>https://andrewhaoyu.github.io/publication/pageant/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewhaoyu.github.io/publication/pageant/</guid>
       <description></description>
     </item>

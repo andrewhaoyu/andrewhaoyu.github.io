@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Douglas F. Easton | Haoyu Zhang</title>
+    <title>Douglas F. Easton on Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/author/douglas-f.-easton/</link>
-      <atom:link href="https://andrewhaoyu.github.io/author/douglas-f.-easton/index.xml" rel="self" type="application/rss+xml" />
-    <description>Douglas F. Easton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
-      <title>Douglas F. Easton</title>
-      <link>https://andrewhaoyu.github.io/author/douglas-f.-easton/</link>
-    </image>
-    
+    <description>Recent content in Douglas F. Easton on Haoyu Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/author/douglas-f.-easton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers</title>
       <link>https://andrewhaoyu.github.io/publication/cancer_effectsize/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewhaoyu.github.io/publication/cancer_effectsize/</guid>
       <description></description>
     </item>
