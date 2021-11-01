@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nilanjan Chatterjee on Haoyu Zhang</title>
+    <title>Nilanjan Chatterjee | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/author/nilanjan-chatterjee/</link>
-    <description>Recent content in Nilanjan Chatterjee on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/author/nilanjan-chatterjee/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/author/nilanjan-chatterjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nilanjan Chatterjee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Nilanjan Chatterjee</title>
+      <link>https://andrewhaoyu.github.io/author/nilanjan-chatterjee/</link>
+    </image>
+    
     <item>
       <title>The role of gallstones in gallbladder cancer in India: a Mendelian randomization study</title>
       <link>https://andrewhaoyu.github.io/publication/gallstone/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/gallstone/</guid>
       <description></description>
     </item>
@@ -21,7 +24,6 @@
       <title>Power Analysis for Genetic Association Test (PAGEANT) provides insights to challenges for rare variant association studies</title>
       <link>https://andrewhaoyu.github.io/publication/pageant/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/pageant/</guid>
       <description></description>
     </item>
