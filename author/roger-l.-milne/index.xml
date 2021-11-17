@@ -5,7 +5,7 @@
     <link>https://andrewhaoyu.github.io/author/roger-l.-milne/</link>
       <atom:link href="https://andrewhaoyu.github.io/author/roger-l.-milne/index.xml" rel="self" type="application/rss+xml" />
     <description>Roger L. Milne</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
       <title>Roger L. Milne</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers</title>
-      <link>https://andrewhaoyu.github.io/publication/cancer_effectsize/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrewhaoyu.github.io/publication/cancer_effectsize/</guid>
+      <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
+      <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
-      <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
+      <title>Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers</title>
+      <link>https://andrewhaoyu.github.io/publication/cancer_effectsize/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/cancer_effectsize/</guid>
       <description></description>
     </item>
     

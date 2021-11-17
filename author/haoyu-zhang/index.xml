@@ -5,12 +5,20 @@
     <link>https://andrewhaoyu.github.io/author/haoyu-zhang/</link>
       <atom:link href="https://andrewhaoyu.github.io/author/haoyu-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Haoyu Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andrewhaoyu.github.io/author/haoyu-zhang/avatar_hu518b3a2faca5d715bb65c564067bc235_288846_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Haoyu Zhang</title>
       <link>https://andrewhaoyu.github.io/author/haoyu-zhang/</link>
     </image>
+    
+    <item>
+      <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
+      <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The role of gallstones in gallbladder cancer in India: a Mendelian randomization study</title>
@@ -25,14 +33,6 @@
       <link>https://andrewhaoyu.github.io/publication/cancer_effectsize/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://andrewhaoyu.github.io/publication/cancer_effectsize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
-      <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
       <description></description>
     </item>
     

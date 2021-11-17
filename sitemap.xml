@@ -3,12 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andrewhaoyu.github.io/tag/covid-19/</loc>
-    <lastmod>2021-08-11T03:30:00+00:00</lastmod>
+    <loc>https://andrewhaoyu.github.io/</loc>
+    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewhaoyu.github.io/</loc>
+    <loc>https://andrewhaoyu.github.io/project/</loc>
+    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/project/top/</loc>
+    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/project/pageant/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/publication-type/2/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/alison-m.-dunning/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/authors/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/tag/cancer-epidemiology/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/project/cklrt/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/publication/known_snps/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/haoyu-zhang/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/joe-dennis/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/kyriaki-michailidou/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/manjeet-k.-bolla/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/others/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/publication_types/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/publication/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/roger-l.-milne/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/tag/statistical-genetics/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/tags/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/author/thomas-u.-ahearn/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/research/</loc>
+    <lastmod>2021-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/research/transprs/</loc>
+    <lastmod>2021-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/tag/causal-inference/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/research/mr_analysis/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/research/breast_cancer/</loc>
+    <lastmod>2021-11-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/tag/collaborations/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/research/other_collaborations/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/tag/covid-19/</loc>
     <lastmod>2021-08-11T03:30:00+00:00</lastmod>
   </url>
   
@@ -23,33 +158,8 @@
   </url>
   
   <url>
-    <loc>https://andrewhaoyu.github.io/tags/</loc>
-    <lastmod>2021-08-11T03:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://andrewhaoyu.github.io/talk/icsa_2020/</loc>
     <lastmod>2020-12-15T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/publication-type/2/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/authors/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/tag/cancer-epidemiology/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/author/haoyu-zhang/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,22 +168,7 @@
   </url>
   
   <url>
-    <loc>https://andrewhaoyu.github.io/author/others/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://andrewhaoyu.github.io/author/preetha-rajaraman/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/publication_types/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/publication/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +199,6 @@
   
   <url>
     <loc>https://andrewhaoyu.github.io/talk/bcac_2020/</loc>
-    <lastmod>2020-09-21T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/tag/statistical-genetics/</loc>
     <lastmod>2020-09-21T08:00:00+00:00</lastmod>
   </url>
   
@@ -148,48 +238,8 @@
   </url>
   
   <url>
-    <loc>https://andrewhaoyu.github.io/author/roger-l.-milne/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://andrewhaoyu.github.io/author/yan-d.-zhang/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/publication-type/3/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/author/alison-m.-dunning/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/publication/known_snps/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/author/joe-dennis/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/author/kyriaki-michailidou/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/author/manjeet-k.-bolla/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewhaoyu.github.io/author/thomas-u.-ahearn/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -525,6 +575,10 @@
   
   <url>
     <loc>https://andrewhaoyu.github.io/honors/excellence_socialwork/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewhaoyu.github.io/research/covid_19/</loc>
   </url>
   
 </urlset>

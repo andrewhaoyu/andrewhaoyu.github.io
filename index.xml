@@ -5,12 +5,88 @@
     <link>https://andrewhaoyu.github.io/</link>
       <atom:link href="https://andrewhaoyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Haoyu Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 11 Aug 2021 03:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
       <title>Haoyu Zhang</title>
       <link>https://andrewhaoyu.github.io/</link>
     </image>
+    
+    <item>
+      <title>TOP</title>
+      <link>https://andrewhaoyu.github.io/project/top/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/project/top/</guid>
+      <description>&lt;p&gt;Two-stage polytomous logistic regression (TOP): in this package, we developed a two-stage polytomous regression framework to handle cancer data with multivariate tumor characteristics. In the first stage, a standard polytomous model is used to specify for all subtypes defined by the cross-classification of different markers. In the second stage, the subtype-specific case-control odds ratios are specified using a more parsimonious model based on the case-control odds ratio for a baseline subtype, and the case-case parameters associated with tumor markers. Further, to reduce the degrees-of-freedom, we allow to specify case-case parameters for additional markers using a random-effect model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAGEANT</title>
+      <link>https://andrewhaoyu.github.io/project/pageant/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/project/pageant/</guid>
+      <description>&lt;p&gt;The application allows rapid power and sample size analysis for a variety of genetic association tests by specification of a few key parameters [Derkach et al. 2017]. Power and sample size calculations can be done at the level of single variant for simple trend test, at the level of a genes/regions for various complex aggregated tests [Neale et al. 2011, Derkach et al. 2013, Wu et al. 2011, Madsen and Browning 2009] and at the level of the whole genome for the assessment of overall yield of a study. The calculations currently use underlying distribution of gene size and minor allele frequencies of variants observed in the in the public data for 60,000 individuals from Exome Aggregation Consortium [Lek et al. 2016].&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CKLRT</title>
+      <link>https://andrewhaoyu.github.io/project/cklrt/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/project/cklrt/</guid>
+      <description>&lt;p&gt;Composite Kernel Machine Regression based on Likelihood Ratio Test (CKLRT): in this package, we develop a kernel machine regression framework to model the overall genetic effect of a SNP-set, considering the possible GE interaction. Specifically, we use a composite kernel to specify the overall genetic effect via a nonparametric function and we model additional covariates parametrically within the regression framework. The composite kernel is constructed as a weighted average of two kernels, one corresponding to the genetic main effect and one corresponding to the GE interaction effect. We propose a likelihood ratio test (LRT) and a restricted likelihood ratio test (RLRT) for statistical significance. We derive a Monte Carlo approach for the finite sample distributions of LRT and RLRT statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
+      <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transethnic polygenic risk predictions</title>
+      <link>https://andrewhaoyu.github.io/research/transprs/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/research/transprs/</guid>
+      <description>&lt;p&gt;Polygenic risk scores (PRS) are useful for predicting various phenotypes/outcomes; however, most PRS are developed using predominately European ancestry data, their performance in non-European populations is often poorer. To improve PRS performance in non-European populations, we propose TDLD-SLEB (Two-Dimensional Clumping and thresholDing with Super Learning and Empirical Bayes), which takes advantage of both existing large GWAS from European populations and smaller GWAS from non-European populations. TDLD-SLEB leverages the genetic correlations across populations while accounting for the linkage disequilibrium (LD) differences and population-specific allele frequencies. We found TDLD-SLEB had outperformed alternative methods through large scale simulations with different genetic architectures. Using 23andMe, Inc. data, we applied TDLD-SLEB for seven complex traits using GWAS data from five ethnic groups (average N≈ 3,108K per trait). TDLD-SLEB often led to large improvement in PRS performance compared to alternative methods for African American population (e.g., for height, R2 = 0.12 for TDLD-SLEB vs. R2 = 0.05 for weighted PRS method).  For other ethnic groups, TDLD-SLEB also led to sometime notable improvements in PRS performance, such as for cardiovascular disease in the Latino population (AUC = 0.61 for TDLD-SLEB vs. AUC = 0.58 for weighed PRS method).  In conclusion, TDLD-SLEB is a computationally scalable and statistically efficient method for generating predictive PRS in non-European populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust Mendelian randomization methods incorporating weak and correlated instruments</title>
+      <link>https://andrewhaoyu.github.io/research/mr_analysis/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/research/mr_analysis/</guid>
+      <description>&lt;p&gt;Risk factors for common diseases and traits include epidemiological risk factors and genetic factors. Identifying causal epidemiological risk factors can accelerate innovations in disease prevention and intervention. MR methods are potentially powerful tools to investigate causal associations by using genetic variants as instrumental variables. However, these methods require strong assumptions that can lead to biased and inconsistent results. I develop robust and powerful MR methods to estimate and make inference on the causal effects between epidemiological risk factors and disease risks. The method requires weaker and more realistic assumptions and addresses several critical problems in available MR methods, including weak instrumental bias, pleiotropic effects, and linkage disequilibrium (LD) across variants. Through large-scale simulations under various genetic architectures, I have demonstrated the robustness and efficiency of this method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing for genetic association association and building risk prediction models for cancer incorporating tumor characteristics</title>
+      <link>https://andrewhaoyu.github.io/research/breast_cancer/</link>
+      <pubDate>Fri, 05 Nov 2021 08:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/research/breast_cancer/</guid>
+      <description>&lt;p&gt;Breast cancer represents a heterogeneous group of diseases with different molecular and clinical features. Thus, clarifying potential heterogeneous associations between genes and disease subtypes offers a tremendous opportunity to characterize distinct etiological pathways. During my graduate studies, I proposed several new computational and statistical approaches to develop powerful genetic associations tests and build polygenic risk scores for specific subtypes. This method has 1) discovered 32 novel susceptibility loci associated with breast cancer risk; 2) revealed the complex etiological heterogeneity patterns of 173 known risk loci; and 3) constructed PRS with the best prediction performance for different breast cancer subtypes. This work has led to three first-authored papers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Zhang, Haoyu, et al. &amp;ldquo;Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses.&amp;rdquo; Nature genetics 52.6 (2020): 572-581. (co-first author)&lt;/li&gt;
+&lt;li&gt;Zhang, Haoyu, et al. &amp;ldquo;A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics.&amp;rdquo; Biostatistics 22.4 (2020): 772-788.&lt;/li&gt;
+&lt;li&gt;Ahearn, Thomas U., et al. &amp;ldquo;Common breast cancer risk loci predispose to distinct tumor subtypes.&amp;rdquo; (Accepted at Breast Cancer Research, co-first author)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific collaborations</title>
+      <link>https://andrewhaoyu.github.io/research/other_collaborations/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/research/other_collaborations/</guid>
+      <description>&lt;p&gt;Risk factors for common diseases and traits include epidemiological risk factors and genetic factors. Identifying causal epidemiological risk factors can accelerate innovations in disease prevention and intervention. MR methods are potentially powerful tools to investigate causal associations by using genetic variants as instrumental variables. However, these methods require strong assumptions that can lead to biased and inconsistent results. I develop robust and powerful MR methods to estimate and make inference on the causal effects between epidemiological risk factors and disease risks. The method requires weaker and more realistic assumptions and addresses several critical problems in available MR methods, including weak instrumental bias, pleiotropic effects, and linkage disequilibrium (LD) across variants. Through large-scale simulations under various genetic architectures, I have demonstrated the robustness and efficiency of this method.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Quantifying the transmission dynamics of COVID-19 using U.S. states and county level data</title>
@@ -57,14 +133,6 @@
       <link>https://andrewhaoyu.github.io/publication/cancer_effectsize/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://andrewhaoyu.github.io/publication/cancer_effectsize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
-      <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
       <description></description>
     </item>
     
@@ -354,6 +422,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andrewhaoyu.github.io/honors/excellence_socialwork/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Transmission dynamic modeling for COVID-19 data in the U.S. and the world</title>
+      <link>https://andrewhaoyu.github.io/research/covid_19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/research/covid_19/</guid>
+      <description>&lt;p&gt;Understanding COVID-19 transmission dynamics, such as the temporal trend of the transmission rate, i.e., time-varying effective reproductive numbers (Rt), is important for controlling the disease, estimating the prevalence and the total number of infections, and the fatality. Modeling COVID-19 transmission dynamics faces significant challenges. A large number of cases are likely to be un-ascertained/undetected due to insufficient testing. Many of these un-ascertained cases are asymptomatic and mildly symptomatic but still infectious. For a given region, the unknown ascertainment rate often varies over time due to evolving testing capacity. Furthermore, case counts are often subject to delayed reporting. Epidemic models that ignore unascertained cases and reporting delays can lead to biased estimates of the transmission rate and the prevalence of the disease. To address these problems, we develop an over-dispersed Poisson Partial Differential Equation transmission dynamic model to estimate the region-specific Rt and ascertainment rates as piece-wise constants by (1) using daily case counts of positive tests and accounting for both reporting delay and over-dispersion; (2) incorporating daily death count data; (3) modeling the compartments of isolation at home and  at hospitals  separately. We also estimate the prevalence and the daily numbers of total infections in a given region by accounting for under-ascertainment. We apply the model to 50 U.S. states and more than 200 countries using data up to August 31th, 2020. Our results show that ascertainment rates continue increase as the testing capacity increase. However, there are still large proportion of unascertained COVID-19 cases.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

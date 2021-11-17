@@ -28,5 +28,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Transmission dynamic modeling for COVID-19 data in the U.S. and the world</title>
+      <link>https://andrewhaoyu.github.io/research/covid_19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/research/covid_19/</guid>
+      <description>&lt;p&gt;Understanding COVID-19 transmission dynamics, such as the temporal trend of the transmission rate, i.e., time-varying effective reproductive numbers (Rt), is important for controlling the disease, estimating the prevalence and the total number of infections, and the fatality. Modeling COVID-19 transmission dynamics faces significant challenges. A large number of cases are likely to be un-ascertained/undetected due to insufficient testing. Many of these un-ascertained cases are asymptomatic and mildly symptomatic but still infectious. For a given region, the unknown ascertainment rate often varies over time due to evolving testing capacity. Furthermore, case counts are often subject to delayed reporting. Epidemic models that ignore unascertained cases and reporting delays can lead to biased estimates of the transmission rate and the prevalence of the disease. To address these problems, we develop an over-dispersed Poisson Partial Differential Equation transmission dynamic model to estimate the region-specific Rt and ascertainment rates as piece-wise constants by (1) using daily case counts of positive tests and accounting for both reporting delay and over-dispersion; (2) incorporating daily death count data; (3) modeling the compartments of isolation at home and  at hospitals  separately. We also estimate the prevalence and the daily numbers of total infections in a given region by accounting for under-ascertainment. We apply the model to 50 U.S. states and more than 200 countries using data up to August 31th, 2020. Our results show that ascertainment rates continue increase as the testing capacity increase. However, there are still large proportion of unascertained COVID-19 cases.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
