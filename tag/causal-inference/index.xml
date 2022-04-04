@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Causal Inference | Haoyu Zhang</title>
+    <title>Causal Inference on Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/tag/causal-inference/</link>
-      <atom:link href="https://andrewhaoyu.github.io/tag/causal-inference/index.xml" rel="self" type="application/rss+xml" />
-    <description>Causal Inference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
-      <title>Causal Inference</title>
-      <link>https://andrewhaoyu.github.io/tag/causal-inference/</link>
-    </image>
-    
+    <description>Recent content in Causal Inference on Haoyu Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/tag/causal-inference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robust Mendelian randomization methods incorporating weak and correlated instruments</title>
       <link>https://andrewhaoyu.github.io/research/mr_analysis/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewhaoyu.github.io/research/mr_analysis/</guid>
-      <description>&lt;p&gt;Risk factors for common diseases and traits include epidemiological risk factors and genetic factors. Identifying causal epidemiological risk factors can accelerate innovations in disease prevention and intervention. MR methods are potentially powerful tools to investigate causal associations by using genetic variants as instrumental variables. However, these methods require strong assumptions that can lead to biased and inconsistent results. I develop robust and powerful MR methods to estimate and make inference on the causal effects between epidemiological risk factors and disease risks. The method requires weaker and more realistic assumptions and addresses several critical problems in available MR methods, including weak instrumental bias, pleiotropic effects, and linkage disequilibrium (LD) across variants. Through large-scale simulations under various genetic architectures, I have demonstrated the robustness and efficiency of this method.&lt;/p&gt;
-</description>
+      <description>Mendelian randomization (MR) is a major tool to test the causal association between risk factors and disease using genetic variants as instrumental variables.MR makes several strong assumptions, which can be violated in practice and lead to biased estimates and statistical inference. We develop a robust and powerful MR method requiring weaker and more realistic assumptions.</description>
     </item>
     
   </channel>

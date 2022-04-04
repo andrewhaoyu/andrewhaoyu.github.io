@@ -1,16 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Haoyu Zhang</title>
+    <title>Tags on Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/tags/</link>
-      <atom:link href="https://andrewhaoyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://andrewhaoyu.github.io/tags/</link>
-    </image>
+    <description>Recent content in Tags on Haoyu Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cancer Epidemiology</title>
+      <link>https://andrewhaoyu.github.io/tag/cancer-epidemiology/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/cancer-epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Genetics</title>
+      <link>https://andrewhaoyu.github.io/tag/statistical-genetics/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/statistical-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference</title>
+      <link>https://andrewhaoyu.github.io/tag/causal-inference/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborations</title>
+      <link>https://andrewhaoyu.github.io/tag/collaborations/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/collaborations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19</title>
+      <link>https://andrewhaoyu.github.io/tag/covid-19/</link>
+      <pubDate>Wed, 11 Aug 2021 03:30:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference analysis</title>
+      <link>https://andrewhaoyu.github.io/tag/causal-inference-analysis/</link>
+      <pubDate>Sun, 02 Aug 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/causal-inference-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Research</title>
+      <link>https://andrewhaoyu.github.io/tag/clinical-research/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/clinical-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Analysis</title>
+      <link>https://andrewhaoyu.github.io/tag/bayesian-analysis/</link>
+      <pubDate>Tue, 20 Mar 2018 14:00:00 +0000</pubDate>
+      
+      <guid>https://andrewhaoyu.github.io/tag/bayesian-analysis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
