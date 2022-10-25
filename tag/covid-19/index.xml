@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Covid-19 on Haoyu Zhang</title>
+    <title>Covid-19 | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/tag/covid-19/</link>
-    <description>Recent content in Covid-19 on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 03:30:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>Covid-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 11 Aug 2021 03:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Covid-19</title>
+      <link>https://andrewhaoyu.github.io/tag/covid-19/</link>
+    </image>
+    
     <item>
       <title>Quantifying the transmission dynamics of COVID-19 using U.S. states and county level data</title>
       <link>https://andrewhaoyu.github.io/talk/jsm_2021/</link>
       <pubDate>Wed, 11 Aug 2021 03:30:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/jsm_2021/</guid>
       <description></description>
     </item>
@@ -21,18 +24,8 @@
       <title>Quantifying the transmission dynamics of COVID-19 using U.S. states and county level data</title>
       <link>https://andrewhaoyu.github.io/talk/icsa_2020/</link>
       <pubDate>Tue, 15 Dec 2020 15:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/icsa_2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Transmission dynamic modeling for COVID-19 data in the U.S. and the world</title>
-      <link>https://andrewhaoyu.github.io/research/covid_19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewhaoyu.github.io/research/covid_19/</guid>
-      <description>Understanding COVID-19 transmission dynamics, such as the time-varying effective reproductive numbers (Rt), is important for controlling the disease, estimating the prevalence and the total number of infections, and the fatality. We develop a transmission dynamic model to estimate the region-specific Rt and ascertainment rates as piece-wise constants.</description>
     </item>
     
   </channel>

@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Haoyu Zhang</title>
+    <title>Publications | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/publication/</link>
-    <description>Recent content in Publications on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://andrewhaoyu.github.io/publication/</link>
+    </image>
+    
     <item>
       <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
       <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
       <description></description>
     </item>
@@ -21,7 +24,6 @@
       <title>The role of gallstones in gallbladder cancer in India: a Mendelian randomization study</title>
       <link>https://andrewhaoyu.github.io/publication/gallstone/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/gallstone/</guid>
       <description></description>
     </item>
@@ -30,7 +32,6 @@
       <title>Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers</title>
       <link>https://andrewhaoyu.github.io/publication/cancer_effectsize/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/cancer_effectsize/</guid>
       <description></description>
     </item>
@@ -39,7 +40,6 @@
       <title>Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses</title>
       <link>https://andrewhaoyu.github.io/publication/breast_cancer/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/breast_cancer/</guid>
       <description></description>
     </item>
@@ -48,7 +48,6 @@
       <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/publication/mtop/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/mtop/</guid>
       <description></description>
     </item>
@@ -57,7 +56,6 @@
       <title>Diesel exhaust and bladder cancer risk by pathologic stage and grade subtypes</title>
       <link>https://andrewhaoyu.github.io/publication/diesel_bladder/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/diesel_bladder/</guid>
       <description></description>
     </item>
@@ -66,7 +64,6 @@
       <title>Composite kernel machine regression based on likelihood ratio test for joint testing of genetic and gene–environment interaction effect</title>
       <link>https://andrewhaoyu.github.io/publication/composite_kernel_machine/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/composite_kernel_machine/</guid>
       <description></description>
     </item>
@@ -75,7 +72,6 @@
       <title>The superior glenohumeral joint capsule alone does not prevent superior translation of the humeral head: an in vitro biomechanical study</title>
       <link>https://andrewhaoyu.github.io/publication/superior_glenohumeral/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/superior_glenohumeral/</guid>
       <description></description>
     </item>
@@ -84,7 +80,6 @@
       <title>Power Analysis for Genetic Association Test (PAGEANT) provides insights to challenges for rare variant association studies</title>
       <link>https://andrewhaoyu.github.io/publication/pageant/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/pageant/</guid>
       <description></description>
     </item>
@@ -93,7 +88,6 @@
       <title>Common genetic variation and risk of gallbladder cancer in India: a case-control genome-wide association study</title>
       <link>https://andrewhaoyu.github.io/publication/gallbladder_gwas/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/gallbladder_gwas/</guid>
       <description></description>
     </item>

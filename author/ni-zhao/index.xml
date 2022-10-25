@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ni Zhao on Haoyu Zhang</title>
+    <title>Ni Zhao | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/author/ni-zhao/</link>
-    <description>Recent content in Ni Zhao on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/author/ni-zhao/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/author/ni-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ni Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Ni Zhao</title>
+      <link>https://andrewhaoyu.github.io/author/ni-zhao/</link>
+    </image>
+    
     <item>
       <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/publication/mtop/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/mtop/</guid>
       <description></description>
     </item>
@@ -21,7 +24,6 @@
       <title>Composite kernel machine regression based on likelihood ratio test for joint testing of genetic and gene–environment interaction effect</title>
       <link>https://andrewhaoyu.github.io/publication/composite_kernel_machine/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/composite_kernel_machine/</guid>
       <description></description>
     </item>

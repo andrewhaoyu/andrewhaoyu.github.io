@@ -1,119 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Honors &amp; Awards on Haoyu Zhang</title>
+    <title>Honors &amp; Awards | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/honors/</link>
-    <description>Recent content in Honors &amp; Awards on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0100</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/honors/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/honors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Honors &amp; Awards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Honors &amp; Awards</title>
+      <link>https://andrewhaoyu.github.io/honors/</link>
+    </image>
+    
     <item>
       <title>Distinguished Student Paper Award</title>
       <link>https://andrewhaoyu.github.io/honors/asa_2019/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/asa_2019/</guid>
-      <description>American Statistical Association Section on Statistics in Genomics and Genetics</description>
+      <description></description>
     </item>
     
     <item>
       <title>Delta Omega Scholarship</title>
       <link>https://andrewhaoyu.github.io/honors/delta_omega_scholarship/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/delta_omega_scholarship/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Delta Omega Public Health Honor Society, Alpha Chapter</title>
       <link>https://andrewhaoyu.github.io/honors/delta_omega_honor/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/delta_omega_honor/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Louis I. and Thomas D. Dublin Award</title>
       <link>https://andrewhaoyu.github.io/honors/dublin/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/dublin/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>DCEG Fellows Award for Research Excellence (DFARE)</title>
       <link>https://andrewhaoyu.github.io/honors/dfare/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/dfare/</guid>
-      <description>National Cancer Institute (only gradudate student winnder in 2018)</description>
+      <description></description>
     </item>
     
     <item>
       <title>Joseph Zeger Travel award</title>
       <link>https://andrewhaoyu.github.io/honors/zeger/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/zeger/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Symposium on Advances in Genomics, Epidemiology, and Statistics (SAGES) Poster Award</title>
       <link>https://andrewhaoyu.github.io/honors/sages/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/sages/</guid>
-      <description>University of Pennsylvania</description>
+      <description></description>
     </item>
     
     <item>
       <title>Meritorious Winner in the American Mathematical Contest in Modeling</title>
       <link>https://andrewhaoyu.github.io/honors/math_model/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/math_model/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>First Class Scholarship for Outstanding Merit</title>
       <link>https://andrewhaoyu.github.io/honors/first_class/</link>
       <pubDate>Fri, 30 Sep 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/first_class/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>National Scholarship, Ministry of Education (Top 2%)</title>
       <link>https://andrewhaoyu.github.io/honors/national_scholarship/</link>
       <pubDate>Fri, 30 Sep 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/national_scholarship/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Excellent Student Honor</title>
       <link>https://andrewhaoyu.github.io/honors/excellent_student_honor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/excellent_student_honor/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Scholarship for Distinguished Social Work</title>
       <link>https://andrewhaoyu.github.io/honors/excellence_socialwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/excellence_socialwork/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
   </channel>

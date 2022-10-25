@@ -1,90 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/</link>
-    <description>Recent content on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haoyu Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Haoyu Zhang</title>
+      <link>https://andrewhaoyu.github.io/</link>
+    </image>
+    
     <item>
       <title>TOP</title>
       <link>https://andrewhaoyu.github.io/project/top/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/project/top/</guid>
-      <description>TOP package implemented a two-stage polytomous regression framework to handle cancer data with multivariate tumor characteristics</description>
+      <description>&lt;p&gt;Two-stage polytomous logistic regression (TOP): in this package, we developed a two-stage polytomous regression framework to handle cancer data with multivariate tumor characteristics. In the first stage, a standard polytomous model is used to specify for all subtypes defined by the cross-classification of different markers. In the second stage, the subtype-specific case-control odds ratios are specified using a more parsimonious model based on the case-control odds ratio for a baseline subtype, and the case-case parameters associated with tumor markers. Further, to reduce the degrees-of-freedom, we allow to specify case-case parameters for additional markers using a random-effect model.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>PAGEANT</title>
       <link>https://andrewhaoyu.github.io/project/pageant/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/project/pageant/</guid>
-      <description>The application allows rapid power and sample size analysis for a variety of genetic association tests by specification of a few key parameters.</description>
+      <description>&lt;p&gt;The application allows rapid power and sample size analysis for a variety of genetic association tests by specification of a few key parameters [Derkach et al. 2017]. Power and sample size calculations can be done at the level of single variant for simple trend test, at the level of a genes/regions for various complex aggregated tests [Neale et al. 2011, Derkach et al. 2013, Wu et al. 2011, Madsen and Browning 2009] and at the level of the whole genome for the assessment of overall yield of a study. The calculations currently use underlying distribution of gene size and minor allele frequencies of variants observed in the in the public data for 60,000 individuals from Exome Aggregation Consortium [Lek et al. 2016].&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>CKLRT</title>
       <link>https://andrewhaoyu.github.io/project/cklrt/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/project/cklrt/</guid>
-      <description>Composite Kernel Machine Regression based on Likelihood Ratio Test (CKLRT) implemented a kernel machine regression framework to model the overall genetic effect of a SNP-set, considering the possible GE interaction</description>
+      <description>&lt;p&gt;Composite Kernel Machine Regression based on Likelihood Ratio Test (CKLRT): in this package, we develop a kernel machine regression framework to model the overall genetic effect of a SNP-set, considering the possible GE interaction. Specifically, we use a composite kernel to specify the overall genetic effect via a nonparametric function and we model additional covariates parametrically within the regression framework. The composite kernel is constructed as a weighted average of two kernels, one corresponding to the genetic main effect and one corresponding to the GE interaction effect. We propose a likelihood ratio test (LRT) and a restricted likelihood ratio test (RLRT) for statistical significance. We derive a Monte Carlo approach for the finite sample distributions of LRT and RLRT statistics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Common variants in breast cancer risk loci predispose to distinct tumor subtypes</title>
       <link>https://andrewhaoyu.github.io/publication/known_snps/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/known_snps/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transethnic polygenic risk predictions</title>
+      <title>Multi-anestry polygenic risk predictions</title>
       <link>https://andrewhaoyu.github.io/research/transprs/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/transprs/</guid>
-      <description>Polygenic risk scores are useful for predicting various phenotypes; however, most PRS are developed using predominately European ancestry data, their performance in non-European populations is often poorer. To improve PRS performance in non-European populations, we propose a new method, which takes advantage of both existing large GWAS from European populations and smaller GWAS from non-European populations.</description>
+      <description>&lt;p&gt;Polygenic risk scores (PRS) are useful for predicting various phenotypes/outcomes; however, most PRS are developed using predominately European ancestry data, their performance in non-European populations is often poorer. To improve PRS performance in non-European populations, we propose TDLD-SLEB (Two-Dimensional Clumping and thresholDing with Super Learning and Empirical Bayes), which takes advantage of both existing large GWAS from European populations and smaller GWAS from non-European populations. TDLD-SLEB leverages the genetic correlations across populations while accounting for the linkage disequilibrium (LD) differences and population-specific allele frequencies. We found TDLD-SLEB had outperformed alternative methods through large scale simulations with different genetic architectures. Using 23andMe, Inc. data, we applied TDLD-SLEB for seven complex traits using GWAS data from five ethnic groups (average N≈ 3,108K per trait). TDLD-SLEB often led to large improvement in PRS performance compared to alternative methods for African American population (e.g., for height, R2 = 0.12 for TDLD-SLEB vs. R2 = 0.05 for weighted PRS method).  For other ethnic groups, TDLD-SLEB also led to sometime notable improvements in PRS performance, such as for cardiovascular disease in the Latino population (AUC = 0.61 for TDLD-SLEB vs. AUC = 0.58 for weighed PRS method).  In conclusion, TDLD-SLEB is a computationally scalable and statistically efficient method for generating predictive PRS in non-European populations.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Robust Mendelian randomization methods incorporating weak and correlated instruments</title>
       <link>https://andrewhaoyu.github.io/research/mr_analysis/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/mr_analysis/</guid>
-      <description>Mendelian randomization (MR) is a major tool to test the causal association between risk factors and disease using genetic variants as instrumental variables.MR makes several strong assumptions, which can be violated in practice and lead to biased estimates and statistical inference. We develop a robust and powerful MR method requiring weaker and more realistic assumptions.</description>
+      <description>&lt;p&gt;Risk factors for common diseases and traits include epidemiological risk factors and genetic factors. Identifying causal epidemiological risk factors can accelerate innovations in disease prevention and intervention. MR methods are potentially powerful tools to investigate causal associations by using genetic variants as instrumental variables. However, these methods require strong assumptions that can lead to biased and inconsistent results. I develop robust and powerful MR methods to estimate and make inference on the causal effects between epidemiological risk factors and disease risks. The method requires weaker and more realistic assumptions and addresses several critical problems in available MR methods, including weak instrumental bias, pleiotropic effects, and linkage disequilibrium (LD) across variants. Through large-scale simulations under various genetic architectures, I have demonstrated the robustness and efficiency of this method.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Testing for genetic association association and building risk prediction models for cancer incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/research/breast_cancer/</link>
       <pubDate>Fri, 05 Nov 2021 08:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/breast_cancer/</guid>
-      <description>Breast cancer represents a heterogeneous group of diseases with different molecular and clinical features. Thus, clarifying potential heterogeneous associations between genes and disease subtypes offers a tremendous opportunity to characterize distinct etiological pathways. I proposed several new computational and statistical approaches to develop powerful genetic associations tests.</description>
+      <description>&lt;p&gt;Breast cancer represents a heterogeneous group of diseases with different molecular and clinical features. Thus, clarifying potential heterogeneous associations between genes and disease subtypes offers a tremendous opportunity to characterize distinct etiological pathways. During my graduate studies, I proposed several new computational and statistical approaches to develop powerful genetic associations tests and build polygenic risk scores for specific subtypes. This method has 1) discovered 32 novel susceptibility loci associated with breast cancer risk; 2) revealed the complex etiological heterogeneity patterns of 173 known risk loci; and 3) constructed PRS with the best prediction performance for different breast cancer subtypes. This work has led to three first-authored papers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Zhang, Haoyu, et al. &amp;ldquo;Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses.&amp;rdquo; Nature genetics 52.6 (2020): 572-581. (co-first author)&lt;/li&gt;
+&lt;li&gt;Zhang, Haoyu, et al. &amp;ldquo;A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics.&amp;rdquo; Biostatistics 22.4 (2020): 772-788.&lt;/li&gt;
+&lt;li&gt;Ahearn, Thomas U., et al. &amp;ldquo;Common breast cancer risk loci predispose to distinct tumor subtypes.&amp;rdquo; (Accepted at Breast Cancer Research, co-first author)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
       <title>Scientific collaborations</title>
       <link>https://andrewhaoyu.github.io/research/other_collaborations/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/other_collaborations/</guid>
-      <description>As a statistician and data scientist, I sincerely believe collaborations across disciplines are critical to scientific discovery and methodology development. I participated in broad research collaborations, including genetic association analysis for gall bladder cancer, effect-size distribution analysis for fourteen cancers, gene-environment interaction testing, risk factor analysis for bladder cancer, etc.</description>
+      <description>&lt;p&gt;As a statistician and data scientist, I sincerely believe collaborations across disciplines are critical to scientific discovery and methodology development. I participated in broad research collaborations, including genetic association analysis for gall bladder cancer, effect-size distribution analysis for fourteen cancers, gene-environment interaction testing, risk factor analysis for bladder cancer, etc.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Quantifying the transmission dynamics of COVID-19 using U.S. states and county level data</title>
       <link>https://andrewhaoyu.github.io/talk/jsm_2021/</link>
       <pubDate>Wed, 11 Aug 2021 03:30:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/jsm_2021/</guid>
       <description></description>
     </item>
@@ -93,7 +100,6 @@
       <title>Quantifying the transmission dynamics of COVID-19 using U.S. states and county level data</title>
       <link>https://andrewhaoyu.github.io/talk/icsa_2020/</link>
       <pubDate>Tue, 15 Dec 2020 15:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/icsa_2020/</guid>
       <description></description>
     </item>
@@ -102,7 +108,6 @@
       <title>The role of gallstones in gallbladder cancer in India: a Mendelian randomization study</title>
       <link>https://andrewhaoyu.github.io/publication/gallstone/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/gallstone/</guid>
       <description></description>
     </item>
@@ -111,7 +116,6 @@
       <title>Methods for developing ancestry specific polygenic risk scores</title>
       <link>https://andrewhaoyu.github.io/talk/bcac_2020/</link>
       <pubDate>Mon, 21 Sep 2020 08:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/bcac_2020/</guid>
       <description></description>
     </item>
@@ -120,7 +124,6 @@
       <title>Robust Mendelian randomization analysis with weak instruments</title>
       <link>https://andrewhaoyu.github.io/talk/jsm_2020/</link>
       <pubDate>Sun, 02 Aug 2020 10:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/jsm_2020/</guid>
       <description></description>
     </item>
@@ -129,7 +132,6 @@
       <title>Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers</title>
       <link>https://andrewhaoyu.github.io/publication/cancer_effectsize/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/cancer_effectsize/</guid>
       <description></description>
     </item>
@@ -138,7 +140,6 @@
       <title>Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses</title>
       <link>https://andrewhaoyu.github.io/publication/breast_cancer/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/breast_cancer/</guid>
       <description></description>
     </item>
@@ -147,7 +148,6 @@
       <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/publication/mtop/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/mtop/</guid>
       <description></description>
     </item>
@@ -156,7 +156,6 @@
       <title>Diesel exhaust and bladder cancer risk by pathologic stage and grade subtypes</title>
       <link>https://andrewhaoyu.github.io/publication/diesel_bladder/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/diesel_bladder/</guid>
       <description></description>
     </item>
@@ -165,7 +164,6 @@
       <title> A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/talk/chengdu_2020/</link>
       <pubDate>Wed, 15 Jan 2020 15:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/chengdu_2020/</guid>
       <description></description>
     </item>
@@ -174,7 +172,6 @@
       <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/talk/shanghai_2020/</link>
       <pubDate>Fri, 27 Dec 2019 15:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/shanghai_2020/</guid>
       <description></description>
     </item>
@@ -183,16 +180,14 @@
       <title>Distinguished Student Paper Award</title>
       <link>https://andrewhaoyu.github.io/honors/asa_2019/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/asa_2019/</guid>
-      <description>American Statistical Association Section on Statistics in Genomics and Genetics</description>
+      <description></description>
     </item>
     
     <item>
       <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/talk/jsm_2019/</link>
       <pubDate>Fri, 02 Aug 2019 14:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/jsm_2019/</guid>
       <description></description>
     </item>
@@ -201,16 +196,14 @@
       <title>Delta Omega Scholarship</title>
       <link>https://andrewhaoyu.github.io/honors/delta_omega_scholarship/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/delta_omega_scholarship/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Subtypes specific GWAS and risk prediction modeling on breast cancer subtypes</title>
       <link>https://andrewhaoyu.github.io/talk/bcac_2019/</link>
       <pubDate>Tue, 16 Apr 2019 15:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/bcac_2019/</guid>
       <description></description>
     </item>
@@ -219,25 +212,22 @@
       <title>Delta Omega Public Health Honor Society, Alpha Chapter</title>
       <link>https://andrewhaoyu.github.io/honors/delta_omega_honor/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/delta_omega_honor/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Louis I. and Thomas D. Dublin Award</title>
       <link>https://andrewhaoyu.github.io/honors/dublin/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/dublin/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Composite kernel machine regression based on likelihood ratio test for joint testing of genetic and gene–environment interaction effect</title>
       <link>https://andrewhaoyu.github.io/publication/composite_kernel_machine/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/composite_kernel_machine/</guid>
       <description></description>
     </item>
@@ -246,7 +236,6 @@
       <title>The superior glenohumeral joint capsule alone does not prevent superior translation of the humeral head: an in vitro biomechanical study</title>
       <link>https://andrewhaoyu.github.io/publication/superior_glenohumeral/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/superior_glenohumeral/</guid>
       <description></description>
     </item>
@@ -255,16 +244,14 @@
       <title>DCEG Fellows Award for Research Excellence (DFARE)</title>
       <link>https://andrewhaoyu.github.io/honors/dfare/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/dfare/</guid>
-      <description>National Cancer Institute (only gradudate student winnder in 2018)</description>
+      <description></description>
     </item>
     
     <item>
       <title>A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/talk/ashg_2018/</link>
       <pubDate>Fri, 19 Oct 2018 14:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/ashg_2018/</guid>
       <description></description>
     </item>
@@ -273,7 +260,6 @@
       <title>Developing polygenic risk prediction models for cancer subtypes incorporating multivariate disease characteristics</title>
       <link>https://andrewhaoyu.github.io/talk/jsm_2018/</link>
       <pubDate>Sun, 29 Jul 2018 15:16:45 -0500</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/jsm_2018/</guid>
       <description></description>
     </item>
@@ -282,7 +268,6 @@
       <title>Standard approach and methods accounting for subtype heterogeneity identified 33 novel breast cancer loci</title>
       <link>https://andrewhaoyu.github.io/talk/bcac_2018/</link>
       <pubDate>Tue, 12 Jun 2018 15:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/bcac_2018/</guid>
       <description></description>
     </item>
@@ -291,7 +276,6 @@
       <title>Methods for analyzing genome-wide association studies</title>
       <link>https://andrewhaoyu.github.io/talk/jhu_biostat_100years/</link>
       <pubDate>Fri, 13 Apr 2018 16:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/jhu_biostat_100years/</guid>
       <description></description>
     </item>
@@ -300,7 +284,6 @@
       <title>The mixture approach to estimating a weighted population-averaged value</title>
       <link>https://andrewhaoyu.github.io/talk/enar_2018/</link>
       <pubDate>Tue, 20 Mar 2018 14:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/enar_2018/</guid>
       <description></description>
     </item>
@@ -309,16 +292,14 @@
       <title>Joseph Zeger Travel award</title>
       <link>https://andrewhaoyu.github.io/honors/zeger/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/zeger/</guid>
-      <description>Johns Hopkins University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
       <link>https://andrewhaoyu.github.io/talk/delta_omega_2018/</link>
       <pubDate>Wed, 28 Feb 2018 14:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/delta_omega_2018/</guid>
       <description></description>
     </item>
@@ -327,7 +308,6 @@
       <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
       <link>https://andrewhaoyu.github.io/talk/nih_student_2018/</link>
       <pubDate>Thu, 22 Feb 2018 14:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/nih_student_2018/</guid>
       <description></description>
     </item>
@@ -336,7 +316,6 @@
       <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
       <link>https://andrewhaoyu.github.io/talk/md_gem_2018/</link>
       <pubDate>Fri, 09 Feb 2018 13:30:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/md_gem_2018/</guid>
       <description></description>
     </item>
@@ -345,7 +324,6 @@
       <title>Power Analysis for Genetic Association Test (PAGEANT) provides insights to challenges for rare variant association studies</title>
       <link>https://andrewhaoyu.github.io/publication/pageant/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/pageant/</guid>
       <description></description>
     </item>
@@ -354,7 +332,6 @@
       <title>Genome-wide association study (GWAS) identifies 19 novel breast cancer loci from analyses accounting for subtype heterogeneity</title>
       <link>https://andrewhaoyu.github.io/talk/ashg_2017/</link>
       <pubDate>Mon, 02 Oct 2017 10:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/ashg_2017/</guid>
       <description></description>
     </item>
@@ -363,7 +340,6 @@
       <title>Testing for genetic associations in case-control studies incorporating multivariate disease characteristics</title>
       <link>https://andrewhaoyu.github.io/talk/nci_2017/</link>
       <pubDate>Sat, 09 Sep 2017 10:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/nci_2017/</guid>
       <description></description>
     </item>
@@ -372,7 +348,6 @@
       <title>Testing for genetic associations in case-control studies incorporating multivariate disease characteristics</title>
       <link>https://andrewhaoyu.github.io/talk/jsm_2017/</link>
       <pubDate>Wed, 02 Aug 2017 01:30:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/jsm_2017/</guid>
       <description></description>
     </item>
@@ -381,16 +356,14 @@
       <title>Symposium on Advances in Genomics, Epidemiology, and Statistics (SAGES) Poster Award</title>
       <link>https://andrewhaoyu.github.io/honors/sages/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/sages/</guid>
-      <description>University of Pennsylvania</description>
+      <description></description>
     </item>
     
     <item>
       <title>Common genetic variation and risk of gallbladder cancer in India: a case-control genome-wide association study</title>
       <link>https://andrewhaoyu.github.io/publication/gallbladder_gwas/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/publication/gallbladder_gwas/</guid>
       <description></description>
     </item>
@@ -399,7 +372,6 @@
       <title>The mixture approach to estimating a population-averaged value</title>
       <link>https://andrewhaoyu.github.io/talk/enar_2017/</link>
       <pubDate>Wed, 15 Mar 2017 11:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/enar_2017/</guid>
       <description></description>
     </item>
@@ -408,34 +380,30 @@
       <title>Meritorious Winner in the American Mathematical Contest in Modeling</title>
       <link>https://andrewhaoyu.github.io/honors/math_model/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/math_model/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>First Class Scholarship for Outstanding Merit</title>
       <link>https://andrewhaoyu.github.io/honors/first_class/</link>
       <pubDate>Fri, 30 Sep 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/first_class/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>National Scholarship, Ministry of Education (Top 2%)</title>
       <link>https://andrewhaoyu.github.io/honors/national_scholarship/</link>
       <pubDate>Fri, 30 Sep 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/national_scholarship/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Developing trans-ethnic polygenic risk scores through empirical Bayes and super learning algorithm</title>
       <link>https://andrewhaoyu.github.io/talk/pgsg_2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/talk/pgsg_2021/</guid>
       <description></description>
     </item>
@@ -444,27 +412,16 @@
       <title>Excellent Student Honor</title>
       <link>https://andrewhaoyu.github.io/honors/excellent_student_honor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/excellent_student_honor/</guid>
-      <description>Zhejiang University</description>
+      <description></description>
     </item>
     
     <item>
       <title>Scholarship for Distinguished Social Work</title>
       <link>https://andrewhaoyu.github.io/honors/excellence_socialwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/honors/excellence_socialwork/</guid>
-      <description>Zhejiang University</description>
-    </item>
-    
-    <item>
-      <title>Transmission dynamic modeling for COVID-19 data in the U.S. and the world</title>
-      <link>https://andrewhaoyu.github.io/research/covid_19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewhaoyu.github.io/research/covid_19/</guid>
-      <description>Understanding COVID-19 transmission dynamics, such as the time-varying effective reproductive numbers (Rt), is important for controlling the disease, estimating the prevalence and the total number of infections, and the fatality. We develop a transmission dynamic model to estimate the region-specific Rt and ascertainment rates as piece-wise constants.</description>
+      <description></description>
     </item>
     
   </channel>

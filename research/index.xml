@@ -1,56 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Researches on Haoyu Zhang</title>
+    <title>Researches | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/research/</link>
-    <description>Recent content in Researches on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Researches</title>
+      <link>https://andrewhaoyu.github.io/research/</link>
+    </image>
+    
     <item>
-      <title>Transethnic polygenic risk predictions</title>
+      <title>Multi-anestry polygenic risk predictions</title>
       <link>https://andrewhaoyu.github.io/research/transprs/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/transprs/</guid>
-      <description>Polygenic risk scores are useful for predicting various phenotypes; however, most PRS are developed using predominately European ancestry data, their performance in non-European populations is often poorer. To improve PRS performance in non-European populations, we propose a new method, which takes advantage of both existing large GWAS from European populations and smaller GWAS from non-European populations.</description>
+      <description>&lt;p&gt;Polygenic risk scores (PRS) are useful for predicting various phenotypes/outcomes; however, most PRS are developed using predominately European ancestry data, their performance in non-European populations is often poorer. To improve PRS performance in non-European populations, we propose TDLD-SLEB (Two-Dimensional Clumping and thresholDing with Super Learning and Empirical Bayes), which takes advantage of both existing large GWAS from European populations and smaller GWAS from non-European populations. TDLD-SLEB leverages the genetic correlations across populations while accounting for the linkage disequilibrium (LD) differences and population-specific allele frequencies. We found TDLD-SLEB had outperformed alternative methods through large scale simulations with different genetic architectures. Using 23andMe, Inc. data, we applied TDLD-SLEB for seven complex traits using GWAS data from five ethnic groups (average N≈ 3,108K per trait). TDLD-SLEB often led to large improvement in PRS performance compared to alternative methods for African American population (e.g., for height, R2 = 0.12 for TDLD-SLEB vs. R2 = 0.05 for weighted PRS method).  For other ethnic groups, TDLD-SLEB also led to sometime notable improvements in PRS performance, such as for cardiovascular disease in the Latino population (AUC = 0.61 for TDLD-SLEB vs. AUC = 0.58 for weighed PRS method).  In conclusion, TDLD-SLEB is a computationally scalable and statistically efficient method for generating predictive PRS in non-European populations.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Robust Mendelian randomization methods incorporating weak and correlated instruments</title>
       <link>https://andrewhaoyu.github.io/research/mr_analysis/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/mr_analysis/</guid>
-      <description>Mendelian randomization (MR) is a major tool to test the causal association between risk factors and disease using genetic variants as instrumental variables.MR makes several strong assumptions, which can be violated in practice and lead to biased estimates and statistical inference. We develop a robust and powerful MR method requiring weaker and more realistic assumptions.</description>
+      <description>&lt;p&gt;Risk factors for common diseases and traits include epidemiological risk factors and genetic factors. Identifying causal epidemiological risk factors can accelerate innovations in disease prevention and intervention. MR methods are potentially powerful tools to investigate causal associations by using genetic variants as instrumental variables. However, these methods require strong assumptions that can lead to biased and inconsistent results. I develop robust and powerful MR methods to estimate and make inference on the causal effects between epidemiological risk factors and disease risks. The method requires weaker and more realistic assumptions and addresses several critical problems in available MR methods, including weak instrumental bias, pleiotropic effects, and linkage disequilibrium (LD) across variants. Through large-scale simulations under various genetic architectures, I have demonstrated the robustness and efficiency of this method.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Testing for genetic association association and building risk prediction models for cancer incorporating tumor characteristics</title>
       <link>https://andrewhaoyu.github.io/research/breast_cancer/</link>
       <pubDate>Fri, 05 Nov 2021 08:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/breast_cancer/</guid>
-      <description>Breast cancer represents a heterogeneous group of diseases with different molecular and clinical features. Thus, clarifying potential heterogeneous associations between genes and disease subtypes offers a tremendous opportunity to characterize distinct etiological pathways. I proposed several new computational and statistical approaches to develop powerful genetic associations tests.</description>
+      <description>&lt;p&gt;Breast cancer represents a heterogeneous group of diseases with different molecular and clinical features. Thus, clarifying potential heterogeneous associations between genes and disease subtypes offers a tremendous opportunity to characterize distinct etiological pathways. During my graduate studies, I proposed several new computational and statistical approaches to develop powerful genetic associations tests and build polygenic risk scores for specific subtypes. This method has 1) discovered 32 novel susceptibility loci associated with breast cancer risk; 2) revealed the complex etiological heterogeneity patterns of 173 known risk loci; and 3) constructed PRS with the best prediction performance for different breast cancer subtypes. This work has led to three first-authored papers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Zhang, Haoyu, et al. &amp;ldquo;Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses.&amp;rdquo; Nature genetics 52.6 (2020): 572-581. (co-first author)&lt;/li&gt;
+&lt;li&gt;Zhang, Haoyu, et al. &amp;ldquo;A mixed-model approach for powerful testing of genetic associations with cancer risk incorporating tumor characteristics.&amp;rdquo; Biostatistics 22.4 (2020): 772-788.&lt;/li&gt;
+&lt;li&gt;Ahearn, Thomas U., et al. &amp;ldquo;Common breast cancer risk loci predispose to distinct tumor subtypes.&amp;rdquo; (Accepted at Breast Cancer Research, co-first author)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
       <title>Scientific collaborations</title>
       <link>https://andrewhaoyu.github.io/research/other_collaborations/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/other_collaborations/</guid>
-      <description>As a statistician and data scientist, I sincerely believe collaborations across disciplines are critical to scientific discovery and methodology development. I participated in broad research collaborations, including genetic association analysis for gall bladder cancer, effect-size distribution analysis for fourteen cancers, gene-environment interaction testing, risk factor analysis for bladder cancer, etc.</description>
-    </item>
-    
-    <item>
-      <title>Transmission dynamic modeling for COVID-19 data in the U.S. and the world</title>
-      <link>https://andrewhaoyu.github.io/research/covid_19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewhaoyu.github.io/research/covid_19/</guid>
-      <description>Understanding COVID-19 transmission dynamics, such as the time-varying effective reproductive numbers (Rt), is important for controlling the disease, estimating the prevalence and the total number of infections, and the fatality. We develop a transmission dynamic model to estimate the region-specific Rt and ascertainment rates as piece-wise constants.</description>
+      <description>&lt;p&gt;As a statistician and data scientist, I sincerely believe collaborations across disciplines are critical to scientific discovery and methodology development. I participated in broad research collaborations, including genetic association analysis for gall bladder cancer, effect-size distribution analysis for fourteen cancers, gene-environment interaction testing, risk factor analysis for bladder cancer, etc.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

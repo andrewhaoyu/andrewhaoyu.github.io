@@ -1,20 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collaborations on Haoyu Zhang</title>
+    <title>Collaborations | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/tag/collaborations/</link>
-    <description>Recent content in Collaborations on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/tag/collaborations/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/tag/collaborations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collaborations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Collaborations</title>
+      <link>https://andrewhaoyu.github.io/tag/collaborations/</link>
+    </image>
+    
     <item>
       <title>Scientific collaborations</title>
       <link>https://andrewhaoyu.github.io/research/other_collaborations/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/research/other_collaborations/</guid>
-      <description>As a statistician and data scientist, I sincerely believe collaborations across disciplines are critical to scientific discovery and methodology development. I participated in broad research collaborations, including genetic association analysis for gall bladder cancer, effect-size distribution analysis for fourteen cancers, gene-environment interaction testing, risk factor analysis for bladder cancer, etc.</description>
+      <description>&lt;p&gt;As a statistician and data scientist, I sincerely believe collaborations across disciplines are critical to scientific discovery and methodology development. I participated in broad research collaborations, including genetic association analysis for gall bladder cancer, effect-size distribution analysis for fourteen cancers, gene-environment interaction testing, risk factor analysis for bladder cancer, etc.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

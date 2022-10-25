@@ -1,38 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Haoyu Zhang</title>
+    <title>Projects | Haoyu Zhang</title>
     <link>https://andrewhaoyu.github.io/project/</link>
-    <description>Recent content in Projects on Haoyu Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewhaoyu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://andrewhaoyu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://andrewhaoyu.github.io/project/</link>
+    </image>
+    
     <item>
       <title>TOP</title>
       <link>https://andrewhaoyu.github.io/project/top/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/project/top/</guid>
-      <description>TOP package implemented a two-stage polytomous regression framework to handle cancer data with multivariate tumor characteristics</description>
+      <description>&lt;p&gt;Two-stage polytomous logistic regression (TOP): in this package, we developed a two-stage polytomous regression framework to handle cancer data with multivariate tumor characteristics. In the first stage, a standard polytomous model is used to specify for all subtypes defined by the cross-classification of different markers. In the second stage, the subtype-specific case-control odds ratios are specified using a more parsimonious model based on the case-control odds ratio for a baseline subtype, and the case-case parameters associated with tumor markers. Further, to reduce the degrees-of-freedom, we allow to specify case-case parameters for additional markers using a random-effect model.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>PAGEANT</title>
       <link>https://andrewhaoyu.github.io/project/pageant/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/project/pageant/</guid>
-      <description>The application allows rapid power and sample size analysis for a variety of genetic association tests by specification of a few key parameters.</description>
+      <description>&lt;p&gt;The application allows rapid power and sample size analysis for a variety of genetic association tests by specification of a few key parameters [Derkach et al. 2017]. Power and sample size calculations can be done at the level of single variant for simple trend test, at the level of a genes/regions for various complex aggregated tests [Neale et al. 2011, Derkach et al. 2013, Wu et al. 2011, Madsen and Browning 2009] and at the level of the whole genome for the assessment of overall yield of a study. The calculations currently use underlying distribution of gene size and minor allele frequencies of variants observed in the in the public data for 60,000 individuals from Exome Aggregation Consortium [Lek et al. 2016].&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>CKLRT</title>
       <link>https://andrewhaoyu.github.io/project/cklrt/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewhaoyu.github.io/project/cklrt/</guid>
-      <description>Composite Kernel Machine Regression based on Likelihood Ratio Test (CKLRT) implemented a kernel machine regression framework to model the overall genetic effect of a SNP-set, considering the possible GE interaction</description>
+      <description>&lt;p&gt;Composite Kernel Machine Regression based on Likelihood Ratio Test (CKLRT): in this package, we develop a kernel machine regression framework to model the overall genetic effect of a SNP-set, considering the possible GE interaction. Specifically, we use a composite kernel to specify the overall genetic effect via a nonparametric function and we model additional covariates parametrically within the regression framework. The composite kernel is constructed as a weighted average of two kernels, one corresponding to the genetic main effect and one corresponding to the GE interaction effect. We propose a likelihood ratio test (LRT) and a restricted likelihood ratio test (RLRT) for statistical significance. We derive a Monte Carlo approach for the finite sample distributions of LRT and RLRT statistics.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
