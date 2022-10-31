@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheila M. Gaynor | Haoyu Zhang</title>
+    <link>https://andrewhaoyu.github.io/author/sheila-m.-gaynor/</link>
+      <atom:link href="https://andrewhaoyu.github.io/author/sheila-m.-gaynor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sheila M. Gaynor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewhaoyu.github.io/images/icon_hu5f50bc17942b085322e3b1e43c3824be_118154_512x512_fill_lanczos_center_2.png</url>
+      <title>Sheila M. Gaynor</title>
+      <link>https://andrewhaoyu.github.io/author/sheila-m.-gaynor/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Spread Mapper: a multi-resolution, unified framework and open-source tool</title>
+      <link>https://andrewhaoyu.github.io/publication/2022_shi_bioinfor/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrewhaoyu.github.io/publication/2022_shi_bioinfor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
